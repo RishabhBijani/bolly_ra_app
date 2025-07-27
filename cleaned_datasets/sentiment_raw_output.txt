@@ -1,0 +1,2313 @@
+=== Mere Pyare Prime Minister (tt8207768) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Not Present
+  - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+### 2. Gender Relations
+- **Presence**: Present
+  - The dialogue includes references to gender dynamics, such as the mention of "They wanna peep between our legs," which suggests issues related to gender and possibly harassment or objectification.
+
+- **Exclusionary–Inclusionary**: -0.5
+  - The language used in the dialogue suggests exclusionary attitudes, particularly towards women, indicating a lack of inclusion.
+
+- **Negative–Positive**: -0.5
+  - The portrayal of gender relations appears to be negative, focusing on issues like harassment or objectification without a positive resolution or portrayal.
+
+- **Conservative–Progressive**: -0.5
+  - The dialogue reflects traditional and possibly regressive views on gender, without any indication of progressive change or challenge to these views.
+
+### 3. Nationalism
+- **Presence**: Present
+  - The plot involves a child writing to the Prime Minister, and there are references to the Prime Minister and Gandhiji, which can be associated with national identity and governance.
+
+- **Exclusionary–Inclusionary**: 0
+  - The references to national figures and institutions are neutral, focusing on the act of reaching out to the government rather than excluding any group.
+
+- **Negative–Positive**: 0.5
+  - The act of writing to the Prime Minister and the hope for change (e.g., building toilets) suggests a positive engagement with national governance.
+
+- **Conservative–Progressive**: 0.5
+  - The narrative of a child taking initiative to address a public issue reflects a progressive approach to civic engagement and social change.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+  - There is no explicit mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+In summary, the film touches on gender relations and nationalism, with a more negative and conservative portrayal of gender dynamics, while the engagement with national governance is depicted in a more positive and progressive light.
+================================================================================
+=== Manikarnika: The Queen of Jhansi (tt6903440) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Not Present
+  - The plot and subtitles do not indicate any specific focus on Hindu-Muslim relations.
+
+### 2. Gender Relations
+- **Presence**: Present
+  - The film centers around Rani Lakshmibai, a female leader, and her role in the rebellion, which inherently involves gender relations.
+- **Exclusionary–Inclusionary**: +0.5
+  - The portrayal of Rani Lakshmibai as a strong female leader is inclusionary, highlighting women's capabilities in leadership and warfare.
+- **Negative–Positive**: +0.7
+  - The narrative is positive, celebrating Rani Lakshmibai's courage and leadership.
+- **Conservative–Progressive**: +0.6
+  - The film presents a progressive view by focusing on a female protagonist in a historical context, challenging traditional gender roles.
+
+### 3. Nationalism
+- **Presence**: Present
+  - The film is centered around the Indian Rebellion of 1857, a significant nationalist movement against British rule.
+- **Exclusionary–Inclusionary**: +0.3
+  - The nationalism depicted is primarily focused on Indian identity and resistance against colonial rule, which can be seen as inclusionary for Indians but exclusionary towards the British.
+- **Negative–Positive**: +0.5
+  - The portrayal of the struggle for independence is positive, emphasizing bravery and the fight for freedom.
+- **Conservative–Progressive**: +0.4
+  - The film supports the idea of self-governance and resistance against colonialism, which is progressive in the context of the time.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+  - There is no indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film primarily focuses on gender relations and nationalism, with a positive and somewhat progressive portrayal of these themes.
+================================================================================
+=== Viceroy's House (tt4977530) ===
+**1. Hindu-Muslim Relations**
+- Presence: Present
+- Exclusionary–Inclusionary: -0.5 (The theme is largely exclusionary, focusing on the division and strife between Hindus and Muslims during the partition of India, though there are moments of attempted inclusion and unity.)
+- Negative–Positive: -0.7 (The portrayal is predominantly negative, highlighting conflict, violence, and the challenges of coexistence during the partition.)
+- Conservative–Progressive: -0.6 (The narrative leans towards a conservative portrayal, emphasizing traditional divisions and the difficulties in achieving a progressive, unified nation.)
+
+**2. Gender Relations**
+- Presence: Present
+- Exclusionary–Inclusionary: 0.2 (There are some attempts at inclusion, such as the mention of Indian women and their roles, but the focus remains largely on male political figures and decisions.)
+- Negative–Positive: 0.1 (The portrayal is slightly positive, acknowledging the presence and potential contributions of women, but it remains limited in scope.)
+- Conservative–Progressive: 0.0 (The portrayal is neutral, with some progressive elements in acknowledging women's roles but not significantly challenging traditional gender norms.)
+
+**3. Nationalism**
+- Presence: Present
+- Exclusionary–Inclusionary: -0.3 (The theme is somewhat exclusionary, focusing on the division of India and the creation of Pakistan, which highlights nationalistic sentiments that are not entirely inclusive.)
+- Negative–Positive: 0.0 (The portrayal is neutral, showing both the pride in achieving independence and the negative consequences of partition.)
+- Conservative–Progressive: -0.2 (The narrative leans slightly conservative, emphasizing the challenges of change and the adherence to traditional national identities.)
+
+**4. LGBTQIA+ Themes**
+- Presence: Not Present
+
+The film primarily focuses on the historical and political context of the partition of India, with significant emphasis on Hindu-Muslim relations and nationalism. Gender relations are present but not a central theme, and LGBTQIA+ themes are not addressed.
+================================================================================
+=== Fatso! (tt1286766) ===
+Based on the provided movie plot description and subtitle transcript, here is an analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.2
+     - The dialogue includes some traditional gender roles and expectations, but also shows moments of understanding and acceptance, such as acknowledging that men can be scared and the complexities of relationships.
+   - Negative–Positive: 0.1
+     - The portrayal of gender relations is somewhat neutral, with both positive and negative interactions. There are moments of conflict and misunderstanding, but also attempts at reconciliation and understanding.
+   - Conservative–Progressive: 0.1
+     - The film seems to present a mix of traditional and modern views on gender relations, with some progressive elements like questioning traditional roles and expectations.
+
+3. **Nationalism**
+   - Presence: Not Present
+   - There is no indication of nationalism or related themes in the plot description or subtitle transcript.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Ambiguous
+   - The transcript does not explicitly mention LGBTQIA+ themes, but there are moments that could be interpreted as exploring identity and relationships in a non-traditional sense, such as body swapping and the complexities of love and attraction.
+   - Exclusionary–Inclusionary: 0.0
+     - Without explicit mention, it's difficult to assess the inclusivity of LGBTQIA+ themes.
+   - Negative–Positive: 0.0
+     - The portrayal is neutral due to the lack of explicit content related to LGBTQIA+ themes.
+   - Conservative–Progressive: 0.0
+     - The film does not explicitly address LGBTQIA+ themes, so it remains neutral on this axis.
+
+Overall, the film primarily explores themes of gender relations with a mix of traditional and modern perspectives, while other themes are either not present or ambiguous.
+================================================================================
+=== 7 Khoon Maaf (tt1629376) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Present
+  - The transcript mentions a mosque and a temple, indicating a reference to Hindu-Muslim relations.
+- **Exclusionary–Inclusionary**: -0.5
+  - The mention of religious sites suggests a historical context of conflict, which can be exclusionary.
+- **Negative–Positive**: -0.5
+  - The context of religious sites being replaced or contested can imply a negative portrayal of Hindu-Muslim relations.
+- **Conservative–Progressive**: -0.5
+  - The focus on religious sites and potential conflict suggests a conservative portrayal, emphasizing traditional divides.
+
+### 2. Gender Relations
+- **Presence**: Present
+  - The plot revolves around Susanna's marriages and her quest for love, which inherently involves gender relations.
+- **Exclusionary–Inclusionary**: 0
+  - The narrative does not explicitly exclude or include any gender; it focuses on Susanna's personal journey.
+- **Negative–Positive**: -0.5
+  - The repeated deaths of her husbands and the mysterious circumstances suggest a negative portrayal of her relationships.
+- **Conservative–Progressive**: 0
+  - The theme of a woman seeking love through multiple marriages is neither particularly conservative nor progressive without further context.
+
+### 3. Nationalism
+- **Presence**: Ambiguous
+  - There are references to locations like Kashmir and Russia, but these do not explicitly indicate a theme of nationalism.
+- **Exclusionary–Inclusionary**: N/A
+- **Negative–Positive**: N/A
+- **Conservative–Progressive**: N/A
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+  - There is no explicit mention or implication of LGBTQIA+ themes in the plot description or transcript.
+- **Exclusionary–Inclusionary**: N/A
+- **Negative–Positive**: N/A
+- **Conservative–Progressive**: N/A
+
+In summary, the film primarily explores themes of Hindu-Muslim relations and gender relations, with a focus on the personal and potentially contentious aspects of these themes. The portrayal of Hindu-Muslim relations leans towards exclusionary and negative, while gender relations are depicted in a negative light without a clear conservative or progressive stance. Nationalism and LGBTQIA+ themes are not prominently featured.
+================================================================================
+=== October (tt7700730) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.2
+     - The film seems to focus on the relationship between Dan and Shiuli, with some traditional gender roles implied (e.g., Dan's audaciousness and Shiuli being at the receiving end). However, there is no overt exclusion or inclusion of genders beyond this dynamic.
+   - Negative–Positive: 0.1
+     - The portrayal of gender relations is somewhat neutral, with slight positive elements in the care and concern shown by Dan towards Shiuli after her accident.
+   - Conservative–Progressive: 0.0
+     - The film does not strongly challenge or reinforce traditional gender roles, maintaining a neutral stance.
+
+3. **Nationalism**
+   - Presence: Not Present
+   - There is no explicit mention or exploration of nationalism in the plot description or subtitle transcript.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film primarily focuses on personal relationships and individual growth, with limited exploration of broader cultural or political themes.
+================================================================================
+=== The Ghazi Attack (tt6299040) ===
+**Theme Analysis:**
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - Analysis: The movie description and subtitle transcript do not explicitly address Hindu-Muslim relations. The focus is primarily on the Indo-Pak war context, which is more about national conflict rather than religious relations.
+
+2. **Gender Relations**
+   - Presence: Not Present
+   - Analysis: There is no significant mention or exploration of gender relations in the provided description and transcript. The narrative is centered around military operations and does not delve into gender dynamics.
+
+3. **Nationalism**
+   - Presence: Present
+   - Exclusionary–Inclusionary: -0.5
+     - The narrative is exclusionary in the sense that it focuses on a national conflict, emphasizing Indian military prowess and patriotism, potentially at the expense of a more inclusive perspective that considers the broader human impact of war.
+   - Negative–Positive: 0.5
+     - The portrayal of nationalism is positive in terms of highlighting bravery and sacrifice for the nation, but it also carries an undertone of conflict and aggression, which tempers the positivity.
+   - Conservative–Progressive: -0.5
+     - The depiction leans towards conservative nationalism, emphasizing traditional military values and the defense of national borders, rather than a progressive exploration of peace or reconciliation.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - Analysis: There is no mention or exploration of LGBTQIA+ themes in the movie description or subtitle transcript. The focus remains on military and nationalistic themes.
+================================================================================
+=== Newton (tt6484982) ===
+Based on the provided movie plot description and subtitle transcript, here is an analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Not Present
+  - There is no explicit mention or implication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+### 2. Gender Relations
+- **Presence**: Present
+  - There are references to traditional gender roles and expectations, such as the mention of a girl being underage and going to her in-laws, and the societal pressure on women to marry.
+  
+- **Exclusionary–Inclusionary**: -0.2
+  - The portrayal leans slightly towards exclusionary, as it reflects traditional gender roles and societal expectations without challenging them.
+
+- **Negative–Positive**: -0.1
+  - The depiction is slightly negative, as it highlights societal pressures and constraints on women without offering a positive resolution or critique.
+
+- **Conservative–Progressive**: -0.3
+  - The portrayal is somewhat conservative, as it reflects traditional views on gender roles and marriage without presenting progressive alternatives or critiques.
+
+### 3. Nationalism
+- **Presence**: Present
+  - The plot involves themes of conducting elections in a conflict-ridden area, which ties into broader themes of nationalism and democratic processes. There are also references to national identity and governance.
+
+- **Exclusionary–Inclusionary**: 0.1
+  - The portrayal is slightly inclusionary, as it emphasizes the importance of democratic participation and the inclusion of marginalized communities in the electoral process.
+
+- **Negative–Positive**: 0.2
+  - The depiction is slightly positive, as it highlights the efforts to conduct free and fair elections despite challenges, suggesting a hopeful view of democratic processes.
+
+- **Conservative–Progressive**: 0.3
+  - The portrayal is somewhat progressive, as it challenges the status quo by addressing issues of governance and the need for fair elections in conflict areas.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+  - There is no mention or implication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+In summary, the film primarily engages with themes of gender relations and nationalism, with a focus on traditional gender roles and the challenges of conducting democratic elections in conflict areas. The portrayal of gender relations is slightly conservative and negative, while the depiction of nationalism is slightly positive and progressive.
+================================================================================
+=== Zero (tt6527426) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no indication of Hindu-Muslim relations in the plot description or the subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - The plot description and subtitle transcript suggest interactions between a male character and two female characters, which can be analyzed in terms of gender relations.
+   - Exclusionary–Inclusionary: 0.5
+     - The interactions seem to be inclusive in the sense that the women are portrayed as having a significant impact on the male protagonist's life, broadening his horizons and helping him find purpose.
+   - Negative–Positive: 0.3
+     - The portrayal appears to be somewhat positive, as the relationships are described as broadening and purposeful, though the focus on physical attraction and "sexy promises" could be seen as objectifying.
+   - Conservative–Progressive: 0.2
+     - The narrative seems to lean slightly towards progressive by showing women as influential in the protagonist's life, but it still adheres to traditional gender roles with a focus on romance and physical attraction.
+
+3. **Nationalism**
+   - Presence: Not Present
+   - There is no indication of nationalism or related themes in the plot description or the subtitle transcript.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no indication of LGBTQIA+ themes in the plot description or the subtitle transcript.
+
+In summary, the primary theme present in the movie is Gender Relations, with a slightly inclusionary, positive, and progressive portrayal. The other themes are not present in the provided material.
+================================================================================
+=== M Cream (tt2963974) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Present
+  - The mention of "Gujarat, 2002. Assam, 2012. men, women and children butchered alive!" suggests references to historical events involving Hindu-Muslim tensions.
+- **Exclusionary–Inclusionary**: -0.5
+  - The reference to violence and historical events suggests an exclusionary portrayal, focusing on conflict rather than harmony.
+- **Negative–Positive**: -0.7
+  - The depiction of violence and strife is negative, highlighting the darker aspects of Hindu-Muslim relations.
+- **Conservative–Progressive**: -0.3
+  - The focus on past conflicts suggests a more conservative approach, not emphasizing reconciliation or progressive solutions.
+
+### 2. Gender Relations
+- **Presence**: Present
+  - There are references to gender dynamics, such as "bourgeois girl with a stick up her ass" and "self-righteous, little bimbo," indicating gender stereotypes and relations.
+- **Exclusionary–Inclusionary**: -0.3
+  - The use of derogatory terms for women suggests an exclusionary portrayal, though the presence of diverse female characters might offer some inclusion.
+- **Negative–Positive**: -0.4
+  - The language used is negative, reflecting gender biases and stereotypes.
+- **Conservative–Progressive**: -0.5
+  - The portrayal leans towards conservative, with traditional gender roles and stereotypes being highlighted.
+
+### 3. Nationalism
+- **Presence**: Present
+  - References to "Anna Hazare to clean up corruption," "growing economy, the biggest democracy," and "India has declared war upon us!" indicate themes of nationalism.
+- **Exclusionary–Inclusionary**: -0.2
+  - The focus on national issues and pride can be exclusionary, but there is also a sense of collective identity.
+- **Negative–Positive**: 0.0
+  - The portrayal is mixed, with both pride in national identity and criticism of political issues.
+- **Conservative–Progressive**: 0.2
+  - The mention of activism and protest suggests a slightly progressive stance, though traditional national pride is also present.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Ambiguous
+  - There is no explicit mention of LGBTQIA+ themes in the provided text. The focus is more on general social and political issues.
+- **Exclusionary–Inclusionary**: N/A
+- **Negative–Positive**: N/A
+- **Conservative–Progressive**: N/A
+
+Overall, the film seems to explore complex social and political issues, with a focus on conflict and activism. The portrayal of Hindu-Muslim relations and gender dynamics is more negative and conservative, while nationalism is depicted with a mix of pride and criticism. LGBTQIA+ themes are not explicitly present.
+================================================================================
+=== Chennai Express (tt2112124) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Not Present
+- **Analysis**: There is no indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+### 2. Gender Relations
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: 0.2
+  - The film portrays a traditional setting where gender roles are somewhat stereotypical, but there is an element of mutual respect and partnership between the male and female protagonists.
+- **Negative–Positive**: 0.3
+  - The relationship between the male and female leads is generally positive, with moments of cooperation and mutual support, though there are instances of traditional gender expectations.
+- **Conservative–Progressive**: -0.1
+  - The film leans slightly towards conservative portrayals of gender roles, with traditional expectations of marriage and familial duties, but there are hints of progressive elements in the female character's assertiveness.
+
+### 3. Nationalism
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: 0.1
+  - The film includes elements of Indian culture and pride, particularly in the context of regional diversity, but does not strongly emphasize exclusionary nationalism.
+- **Negative–Positive**: 0.4
+  - The portrayal of different regions and cultures within India is generally positive, highlighting the beauty and diversity of the country.
+- **Conservative–Progressive**: 0.0
+  - The film maintains a neutral stance, celebrating cultural diversity without pushing a strong progressive or conservative nationalist agenda.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+- **Analysis**: There is no indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film seems to focus on themes of love, cultural diversity, and traditional values, with a light-hearted and positive tone. The portrayal of gender relations and nationalism is generally positive, with a slight conservative leaning in terms of gender roles.
+================================================================================
+=== Student of the Year (tt2172071) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.2
+     - The film portrays both male and female characters in various roles, with some focus on traditional gender roles and expectations, such as the emphasis on relationships and appearances. However, there is also a sense of inclusion as female characters are shown participating in competitions and having agency.
+   - Negative–Positive: 0.1
+     - The portrayal of gender relations is somewhat neutral, with both positive interactions and conflicts. There are elements of rivalry and competition, but also moments of camaraderie and support.
+   - Conservative–Progressive: -0.1
+     - The film leans slightly towards conservative portrayals, with traditional gender roles and expectations being prominent. However, there are hints of progressive elements, such as female characters being involved in competitions and making independent choices.
+
+3. **Nationalism**
+   - Presence: Ambiguous
+   - There are references to Indian identity and cultural elements, such as mentions of Jawaharlal Nehru and the phrase "voice of Independent India." However, these are not central to the plot and do not strongly indicate a theme of nationalism.
+   - Exclusionary–Inclusionary: N/A
+   - Negative–Positive: N/A
+   - Conservative–Progressive: N/A
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no explicit mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film primarily focuses on gender relations, with some ambiguous references to nationalism. The portrayal of gender relations is slightly inclusionary and positive, with a slight conservative leaning.
+================================================================================
+=== Bewakoofiyaan (tt3483646) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or implication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.2
+     - The film portrays a corporate couple where both partners are involved in financial and career-related discussions, suggesting some level of inclusion in terms of gender roles. However, there are traditional elements, such as the father's involvement in marriage decisions, which slightly limit the inclusivity.
+   - Negative–Positive: 0.1
+     - The interactions between male and female characters show both supportive and challenging dynamics. The female character is shown to have agency, but there are also traditional expectations, leading to a slightly positive portrayal.
+   - Conservative–Progressive: 0.1
+     - The film shows a mix of traditional and modern gender roles. While there is some progressiveness in the female character's independence, the overarching narrative still leans towards traditional family roles.
+
+3. **Nationalism**
+   - Presence: Ambiguous
+   - There are references to government jobs, IAS, and national exams, which could imply a sense of nationalism or national identity. However, these references are not explicitly tied to a broader theme of nationalism.
+   - Exclusionary–Inclusionary: N/A
+   - Negative–Positive: N/A
+   - Conservative–Progressive: N/A
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no mention or implication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film primarily explores themes of gender relations within a corporate and familial context, with a slight nod to traditional versus modern roles. The other themes are either not present or ambiguous in their portrayal.
+================================================================================
+=== Raanjhanaa (tt2359810) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Present
+  - The mention of "baca Kalma (kitab suci)" and the name "Rizwan" suggest the presence of Muslim characters or themes, while references to Hindu deities like "Dewa Shiva" and "Hanuman" indicate Hindu elements.
+- **Exclusionary–Inclusionary**: 0.2
+  - The film seems to include both Hindu and Muslim elements, but the context of their interaction is not clear enough to determine a strong inclusionary or exclusionary stance.
+- **Negative–Positive**: 0
+  - There is no explicit indication of conflict or harmony between the communities, making the portrayal neutral.
+- **Conservative–Progressive**: 0
+  - The film does not seem to challenge or reinforce traditional Hindu-Muslim dynamics explicitly, resulting in a neutral score.
+
+### 2. Gender Relations
+- **Presence**: Present
+  - The plot revolves around a boy trying to win over a girl, and there are multiple references to relationships, marriage, and gender roles in the transcript.
+- **Exclusionary–Inclusionary**: -0.2
+  - The narrative seems to focus on traditional gender roles, with the male protagonist needing to prove himself to win the female character's affection.
+- **Negative–Positive**: -0.3
+  - There are elements of coercion and control, such as "paksa dia" (force her) and "menyayat tanganmu" (cut your hand), suggesting a negative portrayal of gender relations.
+- **Conservative–Progressive**: -0.4
+  - The emphasis on traditional roles and the lack of progressive gender dynamics suggest a conservative portrayal.
+
+### 3. Nationalism
+- **Presence**: Present
+  - References to "pemilu" (elections), "partai" (party), and "pemerintah" (government) indicate political themes, and mentions of "15 Agustus" (India's Independence Day) suggest nationalist elements.
+- **Exclusionary–Inclusionary**: -0.1
+  - The political context seems to focus on power dynamics rather than inclusive nationalism.
+- **Negative–Positive**: -0.2
+  - The portrayal of politics appears to be somewhat negative, with mentions of corruption and violence.
+- **Conservative–Progressive**: -0.3
+  - The focus on traditional power structures and lack of progressive political themes suggest a conservative stance.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+  - There are no explicit references to LGBTQIA+ themes in the plot description or subtitle transcript.
+
+In summary, the film appears to engage with themes of Hindu-Muslim relations, gender relations, and nationalism, with a tendency towards traditional and somewhat negative portrayals, particularly in gender and political dynamics. There is no evident engagement with LGBTQIA+ themes.
+================================================================================
+=== Kismet Love Paisa Dilli (tt2402131) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Ambiguous
+  - The transcript mentions a character named "Sarfarosh Choudhury," which could imply a Muslim identity, but there is no explicit discussion or portrayal of Hindu-Muslim relations. The theme is not clearly present.
+
+### 2. Gender Relations
+- **Presence**: Present
+  - **Exclusionary–Inclusionary**: -0.5
+    - The portrayal of gender relations includes objectification and derogatory remarks towards women, indicating an exclusionary perspective.
+  - **Negative–Positive**: -0.5
+    - The narrative includes negative elements such as harassment and objectification, which overshadow any positive aspects of gender relations.
+  - **Conservative–Progressive**: -0.5
+    - The depiction of gender relations leans towards traditional and conservative views, with limited progressive elements.
+
+### 3. Nationalism
+- **Presence**: Present
+  - **Exclusionary–Inclusionary**: -0.5
+    - The narrative includes elements of nationalism that are exclusionary, focusing on corruption and political manipulation rather than inclusive national identity.
+  - **Negative–Positive**: -0.5
+    - The portrayal of nationalism is largely negative, highlighting corruption and political scandals.
+  - **Conservative–Progressive**: -0.5
+    - The depiction of nationalism is conservative, focusing on traditional power structures and corruption rather than progressive change.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Present
+  - **Exclusionary–Inclusionary**: 0.5
+    - The mention of "Engaged 377" and the rights of gays suggests an inclusionary approach, though it is not the central focus.
+  - **Negative–Positive**: 0.5
+    - The narrative includes a positive mention of LGBTQIA+ rights, though it is not deeply explored.
+  - **Conservative–Progressive**: 0.5
+    - The inclusion of LGBTQIA+ rights indicates a progressive stance, albeit briefly mentioned.
+
+Overall, the film touches on several themes, with a focus on corruption and political intrigue, while also briefly addressing gender and LGBTQIA+ issues. The portrayal of these themes tends to be more negative and conservative, with some progressive elements in the LGBTQIA+ context.
+================================================================================
+=== Ek Tha Tiger (tt2016894) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - **Presence**: Present
+   - **Exclusionary–Inclusionary**: 0.5 (The relationship between the Indian agent and the Pakistani caretaker suggests an inclusionary aspect, promoting cross-border understanding and cooperation.)
+   - **Negative–Positive**: 0.3 (While there is a positive portrayal of personal relationships, the backdrop of espionage and national conflict adds a layer of tension.)
+   - **Conservative–Progressive**: 0.5 (The narrative challenges traditional nationalistic divides by focusing on a personal relationship that transcends national boundaries.)
+
+2. **Gender Relations**
+   - **Presence**: Present
+   - **Exclusionary–Inclusionary**: 0.2 (The female character, Zoya, is involved in espionage, indicating a break from traditional gender roles, but the focus remains on the male protagonist.)
+   - **Negative–Positive**: 0.1 (The portrayal is somewhat positive as it includes a female character in a significant role, but the narrative does not deeply explore gender dynamics.)
+   - **Conservative–Progressive**: 0.3 (The inclusion of a female character in a non-traditional role is progressive, though the overall narrative does not heavily focus on gender issues.)
+
+3. **Nationalism**
+   - **Presence**: Present
+   - **Exclusionary–Inclusionary**: -0.2 (The espionage theme and references to national agencies like ISI and RAW suggest an exclusionary aspect, focusing on national security and rivalry.)
+   - **Negative–Positive**: -0.3 (The narrative involves espionage and national conflict, which are generally portrayed negatively, though there is an underlying message of potential cooperation.)
+   - **Conservative–Progressive**: -0.1 (The film maintains traditional nationalistic themes of espionage and conflict, with a slight progressive element in the personal relationship across borders.)
+
+4. **LGBTQIA+ Themes**
+   - **Presence**: Not Present
+   - Since LGBTQIA+ themes are not present, no scores are assigned for this theme.
+
+Overall, the film appears to explore themes of cross-border relationships and gender roles within the context of espionage and national conflict, with a slight inclination towards inclusion and progressiveness in personal relationships.
+================================================================================
+=== Mary Kom (tt3001638) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Not Present
+  - There is no indication of Hindu-Muslim relations in the plot description or the subtitle transcript.
+
+### 2. Gender Relations
+- **Presence**: Present
+  - The movie chronicles the life of Mary Kom, a female boxer, highlighting her struggles and achievements in a male-dominated sport.
+- **Exclusionary–Inclusionary**: +0.8
+  - The film appears to be inclusionary by focusing on a woman's journey and success in a field traditionally dominated by men.
+- **Negative–Positive**: +0.7
+  - The narrative is positive as it portrays Mary Kom overcoming hardships to achieve her dreams, serving as an inspiration.
+- **Conservative–Progressive**: +0.9
+  - The film is progressive, showcasing a woman breaking barriers and challenging gender norms in sports.
+
+### 3. Nationalism
+- **Presence**: Ambiguous
+  - While the film is about an Indian boxer, the plot description and subtitles do not explicitly address themes of nationalism.
+- **Exclusionary–Inclusionary**: N/A
+- **Negative–Positive**: N/A
+- **Conservative–Progressive**: N/A
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+  - There is no indication of LGBTQIA+ themes in the plot description or the subtitle transcript.
+
+In summary, the primary theme present in the film is Gender Relations, with a focus on inclusionary, positive, and progressive representation. The other themes are either not present or ambiguous based on the provided information.
+================================================================================
+=== Coffee Bloom (tt3666258) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit or implicit reference to Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.2
+     - The interactions between male and female characters suggest some level of inclusion, as there are discussions about relationships and marriage. However, there are also elements of traditional gender roles and expectations, such as the pressure to marry and the dynamics of property ownership.
+   - Negative–Positive: 0.1
+     - The portrayal of gender relations is somewhat neutral, with both positive interactions and conflicts. There are elements of support and understanding, but also tension and unresolved issues.
+   - Conservative–Progressive: -0.1
+     - The narrative includes traditional views on marriage and property, which lean slightly towards conservative. However, there are hints of progressive ideas, such as questioning traditional roles and the idea of self-discovery.
+
+3. **Nationalism**
+   - Presence: Ambiguous
+   - Exclusionary–Inclusionary: 0
+     - There is no clear indication of exclusionary or inclusionary nationalism. The references to Dubai and Australia suggest a global perspective, but there is no explicit nationalistic sentiment.
+   - Negative–Positive: 0
+     - The theme of nationalism is not explicitly addressed, so it remains neutral.
+   - Conservative–Progressive: 0
+     - Without explicit references to nationalism, it is difficult to assess its conservative or progressive nature.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There are no explicit or implicit references to LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film seems to focus more on personal relationships, self-discovery, and the challenges of managing a coffee plantation, with limited exploration of broader cultural or political themes.
+================================================================================
+=== Jai Gangaajal (tt4979082) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - The plot description highlights the appointment of SP Abha Mathur as the first female SP of Bankipur district, which is a significant aspect of gender relations.
+   - Exclusionary–Inclusionary: +0.8
+     - The film portrays a woman in a position of power, challenging traditional gender roles, which is inclusionary.
+   - Negative–Positive: +0.7
+     - The narrative seems to focus on her achievements and challenges, presenting a positive portrayal of gender empowerment.
+   - Conservative–Progressive: +0.9
+     - The appointment of a female SP in a traditionally male-dominated role is a progressive depiction of gender relations.
+
+3. **Nationalism**
+   - Presence: Ambiguous
+   - While there are elements of law enforcement and political dynamics, there is no clear indication of nationalism as a central theme.
+   - Without explicit references to national identity or patriotic sentiments, it remains ambiguous.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no mention or implication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+In summary, the film primarily addresses gender relations with a focus on inclusionary, positive, and progressive representation. Other themes such as Hindu-Muslim relations, nationalism, and LGBTQIA+ themes are either not present or ambiguous based on the provided information.
+================================================================================
+=== Aiyyaa (tt2255934) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - **Presence**: Not Present
+   - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - **Presence**: Present
+   - The plot and subtitles suggest themes related to gender roles and expectations, particularly in the context of marriage and family dynamics.
+   - **Exclusionary–Inclusionary**: -0.2
+     - The portrayal leans slightly towards exclusionary, as it reflects traditional gender roles and expectations, such as the ideal Indian wife and arranged marriages.
+   - **Negative–Positive**: 0.1
+     - The portrayal is slightly positive, as there is an element of personal choice and dreams, but it is overshadowed by traditional expectations.
+   - **Conservative–Progressive**: -0.3
+     - The portrayal is somewhat conservative, focusing on traditional roles and expectations for women, such as marriage and family duties.
+
+3. **Nationalism**
+   - **Presence**: Not Present
+   - There is no explicit mention or indication of nationalism in the plot description or subtitle transcript.
+
+4. **LGBTQIA+ Themes**
+   - **Presence**: Not Present
+   - There is no explicit mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film seems to focus more on personal and familial relationships, particularly around gender roles, without delving into broader themes of Hindu-Muslim relations, nationalism, or LGBTQIA+ issues.
+================================================================================
+=== Arjun Patiala (tt7881524) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - **Presence**: Not Present
+   - There is no explicit mention or implication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - **Presence**: Present
+   - **Exclusionary–Inclusionary**: -0.2
+     - The film appears to have a male-centric narrative, with references to male-oriented films and a focus on male characters. There is a lack of significant female representation or empowerment, suggesting a slightly exclusionary portrayal.
+   - **Negative–Positive**: 0.1
+     - The portrayal of gender relations is somewhat neutral, with minor positive elements such as the mention of a female MLA, but overall, it does not strongly advocate for gender equality or empowerment.
+   - **Conservative–Progressive**: -0.3
+     - The film seems to adhere to traditional gender roles and stereotypes, with little indication of challenging or changing these norms, indicating a conservative stance.
+
+3. **Nationalism**
+   - **Presence**: Present
+   - **Exclusionary–Inclusionary**: 0.0
+     - The theme of nationalism is present in the context of maintaining law and order and the dream of a crime-free district. However, it does not explicitly include or exclude any particular group.
+   - **Negative–Positive**: 0.2
+     - The portrayal of nationalism is somewhat positive, focusing on the goal of a crime-free district and the dedication of the police force, but it lacks a strong, inspiring narrative.
+   - **Conservative–Progressive**: -0.1
+     - The approach to nationalism is slightly conservative, focusing on law enforcement and order rather than progressive ideas of national identity or unity.
+
+4. **LGBTQIA+ Themes**
+   - **Presence**: Not Present
+   - There is no mention or implication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film seems to focus on traditional themes of law enforcement and male-centric narratives, with limited exploration of progressive or inclusive themes.
+================================================================================
+=== 2 States (tt2372678) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - **Presence**: Ambiguous
+     - The plot description mentions "two very different cultural backgrounds," which could imply religious differences, including Hindu-Muslim relations, but it is not explicitly stated. The subtitle transcript does not provide any clear indication of Hindu-Muslim relations.
+
+2. **Gender Relations**
+   - **Presence**: Present
+     - The plot involves a man and a woman navigating cultural differences and family expectations, which touches on gender relations.
+   - **Exclusionary–Inclusionary**: 0.5
+     - The narrative seems to include both genders in the decision-making process, as both the man and woman are involved in convincing their parents.
+   - **Negative–Positive**: 0.3
+     - The plot suggests challenges due to cultural differences, but the couple's joint effort to convince their parents indicates a somewhat positive approach to overcoming these challenges.
+   - **Conservative–Progressive**: 0.2
+     - The need to convince parents before marriage suggests a conservative approach to relationships, but the couple's active role in this process indicates some progressive elements.
+
+3. **Nationalism**
+   - **Presence**: Not Present
+     - There is no indication of themes related to nationalism in the plot description or subtitle transcript.
+
+4. **LGBTQIA+ Themes**
+   - **Presence**: Not Present
+     - The plot description and subtitle transcript do not mention or imply any LGBTQIA+ themes.
+
+Overall, the primary theme present in the movie is gender relations, with a focus on cultural differences and family expectations in the context of a heterosexual relationship.
+================================================================================
+=== Zila Ghaziabad (tt2171454) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - **Presence**: Ambiguous
+   - The transcript mentions names like Rashid Ali, which could imply a Muslim character, but there is no explicit mention of Hindu-Muslim relations or any interaction that highlights this theme. The focus is more on gang wars and political rivalries without a clear religious context.
+
+2. **Gender Relations**
+   - **Presence**: Present
+   - **Exclusionary–Inclusionary**: -0.5
+     - The portrayal of women seems limited and objectified, as seen in references to arranging for a girl and the transactional nature of marriage and relationships.
+   - **Negative–Positive**: -0.5
+     - The depiction of women is largely negative, with references to them being used as pawns in political and personal games, and there is a lack of strong female agency.
+   - **Conservative–Progressive**: -0.7
+     - The narrative appears conservative, with traditional gender roles and expectations, such as women being married off or used to settle scores.
+
+3. **Nationalism**
+   - **Presence**: Present
+   - **Exclusionary–Inclusionary**: 0
+     - The theme of nationalism is present in the form of political power struggles and references to elections, but it does not explicitly exclude or include any particular group.
+   - **Negative–Positive**: -0.3
+     - The portrayal of nationalism is somewhat negative, focusing on corruption, power struggles, and violence rather than positive national identity or unity.
+   - **Conservative–Progressive**: -0.5
+     - The depiction leans towards conservative, with a focus on maintaining power and control through traditional political means and corruption.
+
+4. **LGBTQIA+ Themes**
+   - **Presence**: Not Present
+   - There is no mention or implication of LGBTQIA+ themes in the plot description or subtitle transcript. The narrative does not explore or reference any non-heteronormative relationships or identities.
+
+Overall, the film seems to focus on themes of power, corruption, and traditional gender roles, with limited exploration of religious or LGBTQIA+ themes.
+================================================================================
+=== Ek Paheli Leela (tt4500734) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Not Present
+  - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+### 2. Gender Relations
+- **Presence**: Present
+  - The film includes elements related to gender relations, such as the portrayal of female characters and their interactions with male characters.
+
+- **Exclusionary–Inclusionary**: -0.2
+  - The portrayal of gender relations seems somewhat exclusionary, as there are instances of objectification and possessiveness towards female characters (e.g., "who rape me with their eyes," "belongs only to me").
+
+- **Negative–Positive**: -0.3
+  - The depiction of gender relations leans towards the negative side, with references to possessiveness and objectification, which are harmful and perpetuate negative stereotypes.
+
+- **Conservative–Progressive**: -0.4
+  - The portrayal appears conservative, with traditional gender roles and expectations being reinforced, such as possessiveness over female characters and the emphasis on physical appearance.
+
+### 3. Nationalism
+- **Presence**: Ambiguous
+  - There are references to cultural elements like Rajasthani music and Rajput pride, but these do not explicitly indicate a strong theme of nationalism.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+  - There is no explicit mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+In summary, the film primarily engages with gender relations, which are depicted in a somewhat exclusionary, negative, and conservative manner. There is no clear presence of Hindu-Muslim relations, nationalism, or LGBTQIA+ themes.
+================================================================================
+=== Brahman Naman (tt5240748) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: -0.5  
+  The references to Hindu-Muslim relations, such as the mention of a "Muslim candidate" and "Nostradamus's Inevitable Hinduism," suggest a somewhat exclusionary tone, as they seem to highlight divisions rather than unity.
+- **Negative–Positive**: -0.3  
+  The tone appears to be slightly negative, with references to "the cursed minorities die" and "bigots and racists," which imply a critical view of inter-religious dynamics.
+- **Conservative–Progressive**: -0.4  
+  The portrayal leans towards conservative, as it seems to reinforce existing stereotypes and divisions rather than challenge them.
+
+### 2. Gender Relations
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: -0.7  
+  The language used in the transcript, such as "all cunts" and "nice tits, nice arse," is highly exclusionary and objectifying towards women.
+- **Negative–Positive**: -0.8  
+  The portrayal of gender relations is predominantly negative, with frequent derogatory remarks and a lack of respect towards women.
+- **Conservative–Progressive**: -0.9  
+  The depiction is very conservative, adhering to traditional and sexist views of gender roles and relations.
+
+### 3. Nationalism
+- **Presence**: Ambiguous
+- **Exclusionary–Inclusionary**: N/A
+- **Negative–Positive**: N/A
+- **Conservative–Progressive**: N/A  
+  There are no clear references to nationalism in the provided text, making it difficult to assess its presence or portrayal.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+- **Exclusionary–Inclusionary**: N/A
+- **Negative–Positive**: N/A
+- **Conservative–Progressive**: N/A  
+  There are no explicit references to LGBTQIA+ themes in the provided text.
+
+Overall, the film appears to focus on gender relations with a negative and conservative portrayal, while also touching upon Hindu-Muslim relations in a somewhat exclusionary manner. Nationalism and LGBTQIA+ themes are either ambiguous or not present in the provided material.
+================================================================================
+=== Holiday (tt2556308) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Ambiguous
+   - Analysis: The plot involves a terror plot and sleeper cells, which could imply a religious or ethnic dimension, but there is no explicit mention of Hindu-Muslim relations in the provided text. Therefore, it remains ambiguous.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: -0.5 (The dialogue includes traditional gender roles and expectations, such as marriage arrangements and comments on women's behavior, which lean towards exclusionary.)
+   - Negative–Positive: -0.3 (There are negative connotations in the way women are discussed, such as the expectation to marry and comments on appearance, but there are also neutral interactions.)
+   - Conservative–Progressive: -0.6 (The portrayal of gender roles is largely conservative, with traditional expectations of marriage and behavior for women.)
+
+3. **Nationalism**
+   - Presence: Present
+   - Exclusionary–Inclusionary: -0.2 (The focus on national security and the military suggests a somewhat exclusionary form of nationalism, prioritizing national interests and security.)
+   - Negative–Positive: 0.2 (The narrative is positive towards the military and national defense, portraying them as protectors of the nation.)
+   - Conservative–Progressive: -0.4 (The emphasis on military action and national security aligns with a more conservative view of nationalism.)
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - Analysis: There is no mention or implication of LGBTQIA+ themes in the provided text.
+
+In summary, the film primarily engages with themes of gender relations and nationalism, with a conservative and somewhat exclusionary portrayal of these themes. The presence of Hindu-Muslim relations is ambiguous, and LGBTQIA+ themes are not present.
+================================================================================
+=== Sixteen (tt2976172) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or indication of Hindu-Muslim relations in the provided text.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.2
+     - The text includes various interactions between male and female characters, discussing relationships, societal expectations, and personal experiences. While there are some traditional views, there is also a sense of inclusion in terms of discussing different perspectives and experiences.
+   - Negative–Positive: 0.1
+     - The portrayal of gender relations includes both positive and negative aspects, such as the pressure of societal expectations and the exploration of personal relationships. The overall tone is slightly more positive due to the focus on personal growth and understanding.
+   - Conservative–Progressive: 0.3
+     - The narrative includes elements of both conservative and progressive views. There is a focus on traditional roles and expectations, but also a progressive exploration of personal freedom and modern relationships.
+
+3. **Nationalism**
+   - Presence: Not Present
+   - There is no explicit mention or indication of nationalism in the provided text.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no explicit mention or indication of LGBTQIA+ themes in the provided text.
+
+Overall, the text primarily explores themes related to gender relations, with a focus on the experiences and challenges faced by young individuals in a rapidly changing society. The other themes are not explicitly present in the provided material.
+================================================================================
+=== Dum Laga Ke Haisha (tt3495030) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Not Present
+- There is no indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+### 2. Gender Relations
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: -0.2
+  - The film portrays traditional gender roles, such as the expectation for women to be good at household chores and the pressure on the male protagonist to marry. However, there are moments where the female character is shown to have agency, such as pursuing education and participating in a competition.
+- **Negative–Positive**: 0.1
+  - The narrative includes negative aspects, such as the protagonist's reluctance to marry based on physical appearance and societal expectations. However, there are positive elements, like the eventual participation in a competition that challenges traditional roles.
+- **Conservative–Progressive**: 0.2
+  - The film leans slightly towards progressive by challenging traditional norms through the wife-carrying race and the female character's education, but it still contains conservative elements, such as arranged marriage and gender expectations.
+
+### 3. Nationalism
+- **Presence**: Not Present
+- There is no explicit mention or indication of nationalism in the plot description or subtitle transcript.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+- There is no indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film primarily explores gender relations, with a slight inclination towards challenging traditional norms, but it remains rooted in some conservative values.
+================================================================================
+=== Lootera (tt2224317) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - **Presence**: Not Present
+   - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - **Presence**: Present
+   - The plot involves a romantic relationship between a young archaeologist and a landlord's daughter, which touches upon gender relations.
+   - **Exclusionary–Inclusionary**: 0.2
+     - The relationship seems to be a central part of the story, suggesting some level of inclusion, but there is no strong indication of challenging traditional gender roles.
+   - **Negative–Positive**: 0.1
+     - The relationship is portrayed as "doomed" initially, but destiny brings them together, suggesting a slightly positive portrayal.
+   - **Conservative–Progressive**: -0.1
+     - The narrative of a landlord's daughter and a romantic union suggests a somewhat traditional portrayal, with no clear progressive elements.
+
+3. **Nationalism**
+   - **Presence**: Present
+   - There are references to the Indian National Army, the British yoke, and the Zamindari Abolition Act, indicating themes of nationalism.
+   - **Exclusionary–Inclusionary**: 0.3
+     - The references to the Indian National Army and the fight for freedom suggest a unifying nationalistic sentiment.
+   - **Negative–Positive**: 0.4
+     - The narrative seems to celebrate India's struggle for independence and the abolition of feudal systems, which is generally positive.
+   - **Conservative–Progressive**: 0.5
+     - The mention of the Zamindari Abolition Act and the fight against colonial rule indicates a progressive stance towards social and political change.
+
+4. **LGBTQIA+ Themes**
+   - **Presence**: Not Present
+   - There is no mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+In summary, the film primarily touches upon gender relations and nationalism, with a slight inclination towards inclusion and positivity in these themes. The portrayal of nationalism is more progressive, reflecting historical changes in Indian society.
+================================================================================
+=== Shaadi Mein Zaroor Aana (tt7469726) ===
+**Analysis of "Shaadi Mein Zaroor Aana"**
+
+1. **Hindu-Muslim Relations**
+   - **Presence**: Not Present
+   - The movie does not explicitly address Hindu-Muslim relations in its plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - **Presence**: Present
+   - **Exclusionary–Inclusionary**: -0.5
+     - The film portrays traditional gender roles and expectations, such as the pressure on women to marry and the expectation that they should not work after marriage. However, it also shows Aarti's desire to pursue a career, indicating some level of inclusion.
+   - **Negative–Positive**: 0
+     - The portrayal of gender relations is mixed. While there are negative aspects, such as dowry demands and restrictions on women's careers, Aarti's success in her exams and her eventual career pursuit offer a more positive outlook.
+   - **Conservative–Progressive**: -0.3
+     - The film leans towards conservative values with its focus on arranged marriages and traditional roles, but Aarti's ambition and eventual career success introduce progressive elements.
+
+3. **Nationalism**
+   - **Presence**: Not Present
+   - The movie does not explicitly address themes of nationalism or national identity.
+
+4. **LGBTQIA+ Themes**
+   - **Presence**: Not Present
+   - There are no explicit references to LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, "Shaadi Mein Zaroor Aana" primarily explores gender relations within the context of traditional Indian societal norms, with a focus on arranged marriages and the challenges faced by women in pursuing careers. The film presents a nuanced view, with both conservative and progressive elements.
+================================================================================
+=== Golmaal Again (tt1806913) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Present
+   - Analysis: The theme is briefly touched upon when a character mentions disowning a daughter for loving a Muslim boy. This indicates a cultural tension that is exclusionary and negative.
+   - Exclusionary–Inclusionary: -0.5 (The mention suggests exclusion based on religious differences)
+   - Negative–Positive: -0.5 (The context is negative as it involves disownment due to interfaith love)
+   - Conservative–Progressive: -0.5 (The act of disownment for interfaith love is conservative)
+
+2. **Gender Relations**
+   - Presence: Present
+   - Analysis: Gender relations are depicted through various interactions, such as the disownment of a daughter, the portrayal of women in traditional roles, and the mention of a "father-figure" in a companion. These elements suggest a mix of traditional and slightly progressive views.
+   - Exclusionary–Inclusionary: 0 (Neutral, as there are both traditional and slightly progressive elements)
+   - Negative–Positive: 0 (Neutral, as there are both negative and positive portrayals)
+   - Conservative–Progressive: -0.2 (Leans slightly conservative due to traditional roles and expectations)
+
+3. **Nationalism**
+   - Presence: Not Present
+   - Analysis: There is no significant mention or exploration of nationalism or related sentiments in the provided text.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - Analysis: There is no mention or exploration of LGBTQIA+ themes in the provided text.
+
+Overall, the film seems to focus more on interpersonal relationships and social issues rather than broader political or nationalistic themes. The portrayal of Hindu-Muslim relations and gender relations suggests a conservative and somewhat exclusionary perspective, particularly in the context of interfaith relationships and traditional gender roles.
+================================================================================
+=== Kaashi in Search of Ganga (tt7274806) ===
+Based on the provided movie plot description and subtitle transcript, here is an analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: -0.5
+     - The narrative includes traditional gender roles and expectations, such as the protective brother and the missing sister, which can be seen as exclusionary by reinforcing stereotypes.
+   - Negative–Positive: -0.3
+     - The portrayal of gender relations is somewhat negative, with themes of control and protectionism, and the potential victimization of the female character, Ganga.
+   - Conservative–Progressive: -0.4
+     - The film seems to lean towards a conservative portrayal of gender relations, with traditional roles and a lack of progressive gender dynamics.
+
+3. **Nationalism**
+   - Presence: Ambiguous
+   - There are no explicit references to nationalism, but the setting in Banaras (a culturally significant city) and the involvement of local customs and traditions could imply a subtle presence of national identity.
+   - Exclusionary–Inclusionary: 0.0
+   - Negative–Positive: 0.0
+   - Conservative–Progressive: 0.0
+   - Without explicit references, it's difficult to assess the portrayal of nationalism.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film seems to focus more on traditional gender roles and family dynamics, with a potential underlying theme of local cultural identity, but lacks explicit references to Hindu-Muslim relations, nationalism, or LGBTQIA+ themes.
+================================================================================
+=== Aashiqui 2 (tt2203308) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.2
+     - The film portrays a woman, Aarohi, who is given an opportunity to succeed in her singing career, which suggests some level of inclusion. However, there are elements of exclusion, such as the assumption that her success is tied to a male figure, Rahul, and the societal judgment she faces.
+   - Negative–Positive: 0.1
+     - The narrative includes both positive elements, such as Aarohi's rise to fame, and negative elements, such as the societal assumptions and challenges she faces due to her association with Rahul.
+   - Conservative–Progressive: 0.1
+     - The film shows some progressive elements by focusing on a woman's career and her struggles, but it also reflects conservative societal norms regarding gender roles and relationships.
+
+3. **Nationalism**
+   - Presence: Not Present
+   - There is no explicit mention or indication of nationalism in the plot description or subtitle transcript.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film primarily explores gender relations, with a focus on the challenges and societal perceptions faced by a woman in the entertainment industry. The other themes are not present in the provided material.
+================================================================================
+=== Ladies vs. Ricky Bahl (tt1954598) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.2
+     - The film features a conman who targets women, which could be seen as exclusionary. However, the women eventually team up to outsmart him, suggesting a more inclusionary narrative.
+   - Negative–Positive: 0.1
+     - The portrayal of women being conned is negative, but their eventual empowerment and success in outsmarting the conman adds a positive aspect.
+   - Conservative–Progressive: 0.3
+     - The film challenges traditional gender roles by showing women taking control and outsmarting the male protagonist, which is a progressive element.
+
+3. **Nationalism**
+   - Presence: Not Present
+   - There is no explicit mention or indication of nationalism in the plot description or subtitle transcript.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no explicit mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film primarily explores gender relations, with a focus on women overcoming deceit and asserting their agency, which is portrayed in a somewhat inclusionary and progressive manner.
+================================================================================
+=== Dil Bechara (tt8110330) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.5
+     - The film seems to include both male and female characters in significant roles, suggesting a somewhat inclusionary approach. However, traditional gender roles are still present, as seen in the references to romance and arranged marriage.
+   - Negative–Positive: 0.3
+     - The portrayal of gender relations appears to be somewhat positive, focusing on relationships and emotional connections. However, there are hints of traditional expectations, such as arranged marriages, which may not be entirely positive.
+   - Conservative–Progressive: 0.2
+     - The film seems to lean slightly towards a progressive portrayal by showing a female character with agency and emotional depth. However, the presence of traditional elements like arranged marriage suggests a conservative undertone.
+
+3. **Nationalism**
+   - Presence: Not Present
+   - There is no explicit mention or indication of nationalism in the plot description or subtitle transcript.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film primarily focuses on personal relationships and emotional journeys, with a slight emphasis on gender relations. The absence of explicit themes related to Hindu-Muslim relations, nationalism, and LGBTQIA+ topics suggests a more personal and less politically or culturally charged narrative.
+================================================================================
+=== Article 15 (tt10324144) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence:** Not Present
+- **Analysis:** There is no explicit mention or implication of Hindu-Muslim relations in the provided text.
+
+### 2. Gender Relations
+- **Presence:** Present
+- **Exclusionary–Inclusionary:** -0.5
+  - The narrative includes elements of gender-based violence and discrimination, such as the mention of honor killings and the unsafe environment for girls, indicating exclusionary practices.
+- **Negative–Positive:** -0.7
+  - The portrayal of gender relations is largely negative, focusing on violence against women and systemic issues that prevent gender equality.
+- **Conservative–Progressive:** -0.6
+  - The depiction leans towards conservative, highlighting traditional and oppressive gender norms without significant progressive elements or solutions.
+
+### 3. Nationalism
+- **Presence:** Ambiguous
+- **Analysis:** There are references to national identity and societal issues, such as caste-based discrimination and political rallies, but these do not explicitly align with nationalism as defined. The theme is more about social justice and caste dynamics rather than nationalism.
+
+### 4. LGBTQIA+ Themes
+- **Presence:** Not Present
+- **Analysis:** There is no mention or implication of LGBTQIA+ themes in the provided text.
+
+### Additional Observations:
+The primary focus of the film appears to be on caste disparities and social justice issues in rural India, as evidenced by the frequent references to caste-based discrimination and the struggles of lower caste individuals. The narrative highlights systemic issues and the challenges faced by marginalized communities, with a particular emphasis on caste and gender dynamics.
+================================================================================
+=== Total Siyapaa (tt2727028) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: -0.5  
+  The film presents a relationship between an Indian and a Pakistani, which inherently involves Hindu-Muslim dynamics given the national and cultural contexts. However, there are elements of exclusion, such as the resistance from Asha's family and the stereotypes mentioned in the dialogue.
+- **Negative–Positive**: 0  
+  The portrayal is mixed. While there is an attempt to bridge differences through the relationship, there are also negative stereotypes and tensions highlighted, such as the mention of violence and distrust.
+- **Conservative–Progressive**: 0.5  
+  The film attempts to challenge traditional barriers by depicting a cross-national relationship, which is a progressive element. However, the presence of conservative attitudes from the family tempers this.
+
+### 2. Gender Relations
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: 0  
+  The film does not strongly emphasize gender exclusion or inclusion. The focus is more on the national and cultural aspects rather than gender dynamics.
+- **Negative–Positive**: 0  
+  Gender relations are not a central theme, and the portrayal is neutral without significant positive or negative emphasis.
+- **Conservative–Progressive**: 0  
+  There is no strong indication of either conservative or progressive gender roles in the provided content.
+
+### 3. Nationalism
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: -0.5  
+  The film includes elements of nationalism, particularly in the resistance to the cross-national relationship and the stereotypes about Pakistanis. This suggests an exclusionary stance.
+- **Negative–Positive**: -0.5  
+  The portrayal of nationalism is somewhat negative, focusing on conflict and stereotypes rather than unity or positive national identity.
+- **Conservative–Progressive**: -0.5  
+  The film leans towards a conservative portrayal of nationalism, emphasizing traditional national divides and conflicts.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+- There is no indication of LGBTQIA+ themes in the provided plot description or subtitle transcript.
+
+Overall, the film primarily explores themes of Hindu-Muslim relations and nationalism, with a focus on the challenges of a cross-national relationship. Gender relations and LGBTQIA+ themes are not central to the narrative.
+================================================================================
+=== Ramaiya Vastavaiya (tt2357926) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.2
+     - The film seems to include both male and female characters in various roles, such as a sister, wife, and a country girl. However, there is a hint of traditional gender roles, such as the mention of marriage and the brother's permission, which slightly leans towards inclusionary but not strongly so.
+   - Negative–Positive: 0.1
+     - The interactions between genders appear to be mostly neutral, with some positive elements like expressions of love and concern. However, there are also hints of traditional expectations, which keeps the score close to neutral.
+   - Conservative–Progressive: -0.2
+     - The mention of traditional roles and expectations, such as marriage and brother's permission, suggests a slightly conservative portrayal of gender relations.
+
+3. **Nationalism**
+   - Presence: Ambiguous
+   - The plot involves an NRI (Non-Resident Indian) returning to his homeland, which could imply a sense of attachment to national identity. However, there is not enough information to clearly determine the presence of nationalism as a theme.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no explicit mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film seems to focus more on personal and familial relationships, with a slight emphasis on traditional gender roles. There is no clear indication of Hindu-Muslim relations, nationalism, or LGBTQIA+ themes.
+================================================================================
+=== Photograph (tt7778680) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Present
+  - The presence of characters with names like "Rafi" and "Zakir bhai" suggests Muslim representation, while the mention of "Banaras Hindu University" indicates Hindu representation. The interactions between these characters suggest a theme of Hindu-Muslim relations.
+- **Exclusionary–Inclusionary**: +0.5
+  - The interactions appear to be friendly and inclusive, with no evident conflict or exclusion based on religion.
+- **Negative–Positive**: +0.5
+  - The portrayal seems positive, focusing on everyday interactions and relationships without highlighting conflict.
+- **Conservative–Progressive**: +0.3
+  - The theme is somewhat progressive, as it shows inter-community interactions in a normal, everyday context, though it doesn't explicitly challenge or change societal norms.
+
+### 2. Gender Relations
+- **Presence**: Present
+  - The plot involves a male photographer and a female stranger, with societal pressures on marriage and traditional gender roles being evident.
+- **Exclusionary–Inclusionary**: +0.2
+  - The narrative includes both male and female perspectives, though traditional roles are somewhat reinforced (e.g., pressure to marry).
+- **Negative–Positive**: +0.3
+  - The relationship development between the characters is portrayed positively, suggesting mutual respect and connection.
+- **Conservative–Progressive**: 0
+  - The portrayal is neutral, as it doesn't strongly challenge traditional gender roles but does show a developing relationship that could suggest some level of equality.
+
+### 3. Nationalism
+- **Presence**: Ambiguous
+  - There is a mention of "long live the Republic!" which could imply a nationalist sentiment, but it is not a central theme.
+- **Exclusionary–Inclusionary**: N/A
+- **Negative–Positive**: N/A
+- **Conservative–Progressive**: N/A
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+  - There is no explicit mention or implication of LGBTQIA+ themes in the plot description or subtitle transcript.
+- **Exclusionary–Inclusionary**: N/A
+- **Negative–Positive**: N/A
+- **Conservative–Progressive**: N/A
+
+Overall, the film seems to focus on personal relationships and societal expectations, with some representation of Hindu-Muslim relations and gender dynamics. The themes are generally portrayed in a positive and somewhat inclusive manner, though they do not strongly challenge traditional societal norms.
+================================================================================
+=== Kahaani (tt1821480) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.5
+     - The film features a female protagonist who is actively searching for her missing husband, which suggests a focus on her agency and determination. This portrayal is somewhat inclusionary as it highlights a woman's role in a traditionally male-dominated narrative.
+   - Negative–Positive: 0.3
+     - The narrative presents the female protagonist in a challenging situation, but her determination and agency are portrayed positively. However, the context of her being alone and pregnant could imply vulnerability.
+   - Conservative–Progressive: 0.5
+     - The film appears to challenge traditional gender roles by depicting a woman taking charge of her situation, which is a progressive portrayal.
+
+3. **Nationalism**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.2
+     - The film involves elements of national security and government operations, which can be seen as inclusionary in terms of involving various societal elements in the narrative.
+   - Negative–Positive: -0.2
+     - The presence of corruption and betrayal within the system suggests a negative portrayal of national institutions.
+   - Conservative–Progressive: -0.3
+     - The film seems to critique the existing national security apparatus, which could be seen as conservative in its portrayal of entrenched systems and the challenges in changing them.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film seems to focus on themes of gender relations and nationalism, with a particular emphasis on a woman's agency in a complex socio-political context.
+================================================================================
+=== Ankhon Dekhi (tt3614516) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.5
+     - The film portrays a situation where a father initially resists his daughter's choice of partner due to societal pressure but eventually changes his viewpoint, suggesting a move towards inclusion and acceptance of women's choices.
+   - Negative–Positive: 0.5
+     - The narrative arc moves from a negative stance (resistance and societal shaming) to a positive resolution (acceptance and understanding), indicating a positive portrayal of gender relations.
+   - Conservative–Progressive: 0.5
+     - The father's change of heart represents a progressive shift from traditional, conservative views towards a more modern, progressive understanding of gender relations and individual choice.
+
+3. **Nationalism**
+   - Presence: Ambiguous
+   - The transcript includes references to the Prime Minister of India and discussions about national identity, but these are not central to the plot or thematic development. Therefore, the presence of nationalism is ambiguous and not explicitly developed.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no explicit mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film primarily addresses gender relations, with a focus on the evolving understanding and acceptance of individual choices within familial and societal contexts.
+================================================================================
+=== Shab (tt4287778) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.2
+     - The film seems to include various characters and their interactions, suggesting a somewhat inclusionary approach, but there is not enough context to determine the full extent of inclusion.
+   - Negative–Positive: 0.1
+     - The interactions and aspirations (e.g., becoming a model, treating superiors with respect) suggest a mix of positive and neutral portrayals, but without strong positive reinforcement.
+   - Conservative–Progressive: 0.3
+     - The mention of modeling, fashion, and personal aspirations indicates a slightly progressive portrayal of gender roles, though not strongly emphasized.
+
+3. **Nationalism**
+   - Presence: Ambiguous
+   - There is a mention of "going on in the country" and "wining this election," which could imply some nationalistic elements, but the context is not clear enough to confirm the presence of nationalism.
+   - Exclusionary–Inclusionary: N/A
+   - Negative–Positive: N/A
+   - Conservative–Progressive: N/A
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no explicit mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film "Shab" appears to touch on gender relations with a slightly inclusionary and progressive tone, but lacks explicit references to Hindu-Muslim relations, nationalism, or LGBTQIA+ themes.
+================================================================================
+=== Chittagong (tt1785333) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: +0.5
+  - The film depicts cooperation between Hindus and Muslims, as seen in the dialogue where a Muslim character wishes well for the revolutionaries, indicating inclusion.
+- **Negative–Positive**: +0.5
+  - The interactions between Hindu and Muslim characters are portrayed positively, with mutual support and solidarity.
+- **Conservative–Progressive**: +0.5
+  - The film takes a progressive stance by highlighting unity and cooperation between different religious communities during the struggle against colonial rule.
+
+### 2. Gender Relations
+- **Presence**: Ambiguous
+- **Exclusionary–Inclusionary**: N/A
+- **Negative–Positive**: N/A
+- **Conservative–Progressive**: N/A
+  - The transcript does not provide enough information to clearly identify or analyze gender relations.
+
+### 3. Nationalism
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: +0.3
+  - The film focuses on the Indian struggle for independence, which is inherently inclusionary as it involves a collective national identity against colonial rule.
+- **Negative–Positive**: +0.7
+  - The portrayal of nationalism is positive, emphasizing the courage and determination of the revolutionaries fighting for freedom.
+- **Conservative–Progressive**: +0.5
+  - The film presents a progressive view of nationalism, focusing on revolutionary actions and the desire for change and independence from British rule.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+- **Exclusionary–Inclusionary**: N/A
+- **Negative–Positive**: N/A
+- **Conservative–Progressive**: N/A
+  - There is no indication of LGBTQIA+ themes in the provided transcript or plot description.
+
+Overall, the film appears to focus on themes of Hindu-Muslim unity and nationalism, with a positive and progressive portrayal of these themes. Gender relations and LGBTQIA+ themes are either ambiguous or not present in the provided material.
+================================================================================
+=== Ab Tak Chhappan 2 (tt2202086) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Ambiguous
+  - The movie involves characters with names that could suggest religious backgrounds (e.g., Rauf Lala, Ejaz Abbas Qureshi), but there is no explicit mention or exploration of Hindu-Muslim relations in the plot description or subtitles. The focus is more on crime and law enforcement rather than religious dynamics.
+
+### 2. Gender Relations
+- **Presence**: Not Present
+  - There is no significant mention or exploration of gender relations in the plot description or subtitle transcript. The narrative centers around male characters and their roles in law enforcement and crime, with minimal reference to female characters or gender dynamics.
+
+### 3. Nationalism
+- **Presence**: Present
+  - **Exclusionary–Inclusionary**: 0.5
+    - The narrative includes elements of nationalism, such as references to Gandhian values and the idea of serving the country. The portrayal leans towards inclusionary by emphasizing national unity and the role of law enforcement in maintaining peace.
+  - **Negative–Positive**: 0.3
+    - The portrayal of nationalism is somewhat positive, focusing on the efforts to combat crime and corruption for the betterment of society. However, the presence of political manipulation and corruption tempers the positivity.
+  - **Conservative–Progressive**: 0.2
+    - The narrative reflects a mix of conservative and progressive elements. While it upholds traditional values like Gandhian principles, it also suggests a need for change in the political system, indicating a slight progressive tilt.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+  - There is no mention or exploration of LGBTQIA+ themes in the plot description or subtitle transcript. The narrative does not address issues related to sexual orientation or gender identity.
+
+Overall, the movie primarily focuses on crime, law enforcement, and political dynamics, with limited exploration of the specified cultural and political themes.
+================================================================================
+=== F.A.L.T.U (tt1667076) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no indication of Hindu-Muslim relations in the plot description or the subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Ambiguous
+   - The plot and subtitles do not provide enough context to determine the presence of gender relations themes. The focus is primarily on the creation of a fake university and the interactions among friends, without specific reference to gender dynamics.
+
+3. **Nationalism**
+   - Presence: Not Present
+   - There is no mention or implication of nationalism or related sentiments in the plot description or subtitle transcript.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no indication of LGBTQIA+ themes in the plot description or the subtitle transcript.
+
+Overall, the movie appears to focus on themes of youth, education, and possibly societal expectations, but it does not explicitly address the specified cultural and political themes.
+================================================================================
+=== Bajirao Mastani (tt3735246) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: -0.5
+  - The film portrays a significant Hindu-Muslim relationship between Bajirao, a Hindu, and Mastani, a Muslim. The relationship faces opposition due to religious differences, indicating an exclusionary aspect from the conservative family and society.
+- **Negative–Positive**: 0
+  - While the relationship itself is portrayed as genuine and loving, the societal and familial opposition adds a negative dimension. However, the love story is central and celebrated, balancing the negativity.
+- **Conservative–Progressive**: -0.5
+  - The film depicts a conservative society resistant to interfaith relationships, with traditional values opposing the union. The struggle against these norms is present but not fully progressive.
+
+### 2. Gender Relations
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: 0
+  - The film shows traditional gender roles, with women like Kashibai and Mastani navigating a patriarchal society. While Mastani is portrayed as a warrior, challenging some gender norms, the overall setting remains traditional.
+- **Negative–Positive**: 0.5
+  - The portrayal of Mastani as a strong, independent woman is positive, but the societal constraints and expectations on women are evident, creating a mixed portrayal.
+- **Conservative–Progressive**: 0
+  - The film presents both conservative and slightly progressive elements, with Mastani's character challenging some gender norms, but the overall societal structure remains conservative.
+
+### 3. Nationalism
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: -0.5
+  - The film emphasizes the Maratha empire's expansion and the desire to establish a Hindu state, which can be seen as exclusionary towards other communities.
+- **Negative–Positive**: 0
+  - The portrayal of nationalism is complex, with both pride in the Maratha empire and the exclusionary desire for a Hindu state. It neither fully glorifies nor condemns nationalism.
+- **Conservative–Progressive**: -0.5
+  - The film's depiction of nationalism is rooted in historical expansionism and traditional power structures, leaning towards a conservative portrayal.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+- There is no indication of LGBTQIA+ themes in the provided plot description or subtitle transcript.
+
+Overall, the film "Bajirao Mastani" explores complex themes of interfaith love, gender roles, and nationalism within a historical context, reflecting both the challenges and the enduring nature of these issues in society.
+================================================================================
+=== Tanu Weds Manu Returns (tt2140465) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Not Present
+- **Analysis**: There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+### 2. Gender Relations
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: 0.2
+  - The film portrays various aspects of gender relations, including traditional roles and expectations in marriage. There are moments of inclusion, such as the acknowledgment of women's issues and the critique of traditional gender roles, but these are not the central focus.
+- **Negative–Positive**: 0.1
+  - The portrayal of gender relations includes both negative and positive elements. There are references to women's struggles and societal expectations, but also moments of empowerment and agency.
+- **Conservative–Progressive**: 0.3
+  - The film seems to challenge some traditional norms, such as arranged marriages and gender roles, indicating a slightly progressive stance, though it does not fully embrace progressive ideals.
+
+### 3. Nationalism
+- **Presence**: Not Present
+- **Analysis**: There is no explicit mention or indication of nationalism or related themes in the plot description or subtitle transcript.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+- **Analysis**: There is no explicit mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film primarily explores themes related to gender relations, with a focus on marriage, societal expectations, and personal agency. The portrayal is slightly progressive, with some inclusionary and positive elements, but it does not deeply engage with broader cultural or political themes such as Hindu-Muslim relations, nationalism, or LGBTQIA+ issues.
+================================================================================
+=== Ungli (tt2392447) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or implication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Ambiguous
+   - While there are some interactions that involve both male and female characters, the transcript does not provide enough context to clearly assess gender relations. There is no explicit focus on gender dynamics or issues.
+   - Scores: N/A (due to ambiguous presence)
+
+3. **Nationalism**
+   - Presence: Present
+   - The film's focus on fighting corruption and the portrayal of vigilantes taking justice into their own hands can be interpreted as a form of nationalism, where the characters are motivated by a desire to improve their country and its systems.
+   - Exclusionary–Inclusionary: 0.5 (The film seems to include a broad spectrum of citizens in its critique of corruption, suggesting a more inclusionary approach to national identity.)
+   - Negative–Positive: 0.5 (The film portrays a positive outlook on the potential for change and justice, despite the negative depiction of corruption.)
+   - Conservative–Progressive: 0.5 (The film's narrative of challenging the status quo and seeking reform suggests a progressive stance.)
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no mention or implication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+In summary, the film primarily engages with themes of nationalism through its focus on corruption and justice, with an inclusionary, positive, and somewhat progressive portrayal. Other themes such as Hindu-Muslim relations, gender relations, and LGBTQIA+ themes are either not present or ambiguous in the provided content.
+================================================================================
+=== Queen (tt3322420) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Not Present
+  - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+### 2. Gender Relations
+- **Presence**: Present
+  - The movie centers around Rani, a young woman who embarks on a journey of self-discovery and independence after her wedding is called off. This theme is evident in her interactions and the societal expectations she navigates.
+
+- **Exclusionary–Inclusionary**: +0.5
+  - The film portrays Rani's journey towards independence and self-empowerment, suggesting an inclusionary approach to gender roles by challenging traditional expectations.
+
+- **Negative–Positive**: +0.7
+  - The narrative is largely positive, focusing on Rani's growth, self-discovery, and the supportive friendships she forms, which contribute to a hopeful and empowering portrayal of gender relations.
+
+- **Conservative–Progressive**: +0.8
+  - The film is progressive in its depiction of a woman taking control of her life, traveling alone, and redefining her identity beyond societal norms.
+
+### 3. Nationalism
+- **Presence**: Ambiguous
+  - There are references to India and cultural elements, but they do not explicitly convey a strong theme of nationalism. The focus is more on personal growth and cultural exchange rather than national identity or pride.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+  - There is no explicit mention or exploration of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+In summary, the film primarily explores gender relations through a positive and progressive lens, with an emphasis on inclusion and empowerment. Other themes such as Hindu-Muslim relations, nationalism, and LGBTQIA+ themes are either not present or ambiguous in the context provided.
+================================================================================
+=== Parmanu: The Story of Pokhran (tt6826438) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence:** Not Present
+- **Analysis:** The movie description and subtitles do not explicitly mention Hindu-Muslim relations. The focus is primarily on India's nuclear tests and geopolitical dynamics, particularly with China and Pakistan.
+
+### 2. Gender Relations
+- **Presence:** Ambiguous
+- **Analysis:** There are limited references to gender relations, such as the mention of a wife and son, and a female colleague. However, these references are not sufficient to provide a clear analysis of gender relations in the context of the film.
+
+### 3. Nationalism
+- **Presence:** Present
+- **Exclusionary–Inclusionary:** 0.5
+  - The film portrays a sense of national pride and unity, focusing on India's strategic interests and sovereignty. The narrative is inclusionary in terms of rallying national support but may exclude non-national perspectives.
+- **Negative–Positive:** 0.7
+  - The portrayal of nationalism is largely positive, emphasizing India's scientific achievements and strategic autonomy. However, the potential for conflict and geopolitical tension introduces some negative elements.
+- **Conservative–Progressive:** 0.3
+  - The film leans towards a conservative portrayal of nationalism, focusing on traditional notions of national security and defense. However, the emphasis on scientific progress and strategic innovation adds a progressive element.
+
+### 4. LGBTQIA+ Themes
+- **Presence:** Not Present
+- **Analysis:** There are no references to LGBTQIA+ themes in the movie description or subtitle transcript. The focus is on national security and geopolitical issues.
+
+In summary, the film primarily explores themes of nationalism, with a focus on India's nuclear capabilities and strategic interests. The portrayal of nationalism is largely positive and inclusionary, with a mix of conservative and progressive elements. Other themes, such as Hindu-Muslim relations, gender relations, and LGBTQIA+ themes, are either not present or ambiguous in the provided content.
+================================================================================
+=== Azhar (tt4906984) ===
+**1. Hindu-Muslim Relations**
+- Presence: Present
+- Exclusionary–Inclusionary: 0.5
+- Negative–Positive: 0.3
+- Conservative–Progressive: 0.2
+
+**Analysis**: The film centers around Mohammad Azharuddin, a Muslim cricketer, and his experiences, which inherently touches upon Hindu-Muslim relations in India. The portrayal is somewhat inclusionary, as it focuses on a Muslim figure in a predominantly Hindu country, highlighting his contributions to the national cricket team. The narrative is slightly positive, as it emphasizes his achievements and struggles rather than focusing solely on communal tensions. The film leans slightly towards a progressive portrayal by addressing the complexities of a Muslim individual's life in India, though it does not deeply explore broader Hindu-Muslim relations.
+
+**2. Gender Relations**
+- Presence: Present
+- Exclusionary–Inclusionary: 0.1
+- Negative–Positive: -0.2
+- Conservative–Progressive: -0.3
+
+**Analysis**: Gender relations are present, particularly in the context of Azhar's personal life, including his relationships with his wives. The portrayal is slightly exclusionary, as it does not deeply explore the perspectives of the women involved. The narrative is somewhat negative, as it touches upon issues like infidelity and the impact of Azhar's actions on his family. The portrayal is more conservative, focusing on traditional gender roles and not challenging societal norms significantly.
+
+**3. Nationalism**
+- Presence: Present
+- Exclusionary–Inclusionary: 0.4
+- Negative–Positive: 0.5
+- Conservative–Progressive: 0.1
+
+**Analysis**: Nationalism is a significant theme, as the film revolves around Azhar's role in the Indian cricket team and the match-fixing scandal's impact on national pride. The portrayal is somewhat inclusionary, as it unites diverse groups under the banner of national identity through cricket. The narrative is positive, emphasizing the hope and pride associated with representing the nation. However, it leans slightly conservative, focusing on traditional notions of national pride and not challenging the status quo.
+
+**4. LGBTQIA+ Themes**
+- Presence: Not Present
+
+**Analysis**: There is no indication of LGBTQIA+ themes in the movie description or subtitle transcript. The focus is primarily on Azhar's cricket career and personal life, with no exploration of diverse sexual orientations or gender identities.
+================================================================================
+=== Sanju (tt6452574) ===
+Based on the provided movie plot description and subtitle transcript for the film "Sanju," here is an analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - **Presence**: Ambiguous
+   - **Analysis**: The film touches on the 1993 Mumbai blasts and the Babri mosque demolition, which are significant events in Hindu-Muslim relations in India. However, the focus is more on Sanjay Dutt's personal story rather than a detailed exploration of Hindu-Muslim relations.
+   - **Scores**: Not applicable due to ambiguous presence.
+
+2. **Gender Relations**
+   - **Presence**: Present
+   - **Analysis**: The film includes references to Sanjay Dutt's relationships with women, his interactions with his father, and societal expectations. However, these are not deeply explored in terms of gender dynamics or equality.
+   - **Scores**:
+     - Exclusionary–Inclusionary: 0.2 (Slightly inclusionary as it acknowledges multiple relationships but does not deeply explore gender equality)
+     - Negative–Positive: 0 (Neutral, as it neither strongly criticizes nor celebrates gender relations)
+     - Conservative–Progressive: -0.2 (Slightly conservative, as it does not challenge traditional gender roles significantly)
+
+3. **Nationalism**
+   - **Presence**: Present
+   - **Analysis**: The film deals with themes of national identity and patriotism, especially in the context of Sanjay Dutt's legal battles and public perception. It reflects on how national events and sentiments impact individual lives.
+   - **Scores**:
+     - Exclusionary–Inclusionary: 0 (Neutral, as it presents a personal story within a national context without strong exclusionary or inclusionary elements)
+     - Negative–Positive: 0.1 (Slightly positive, as it shows a personal struggle for justice within the national framework)
+     - Conservative–Progressive: -0.1 (Slightly conservative, as it does not challenge nationalistic narratives but rather works within them)
+
+4. **LGBTQIA+ Themes**
+   - **Presence**: Not Present
+   - **Analysis**: There is no mention or exploration of LGBTQIA+ themes in the provided material.
+   - **Scores**: Not applicable as the theme is not present.
+
+Overall, "Sanju" primarily focuses on the personal life and struggles of Sanjay Dutt, with some references to broader societal and national issues. The film does not deeply engage with Hindu-Muslim relations or LGBTQIA+ themes, and its treatment of gender relations and nationalism is relatively neutral with slight conservative leanings.
+================================================================================
+=== Ae Dil Hai Mushkil (tt4559006) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Not Present
+  - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+### 2. Gender Relations
+- **Presence**: Present
+  - The film explores themes of love, friendship, and relationships between men and women, as seen in the interactions between Ayan, Alizeh, and Saba.
+- **Exclusionary–Inclusionary**: 0.3
+  - The film seems to include diverse perspectives on relationships, but there are hints of traditional gender roles and expectations, such as the emphasis on unrequited love and the idea of completing oneself through another person.
+- **Negative–Positive**: 0.2
+  - The portrayal of relationships includes both positive aspects (friendship, love) and negative aspects (unrequited love, heartbreak), resulting in a slightly positive but mixed portrayal.
+- **Conservative–Progressive**: -0.1
+  - The film leans slightly towards conservative views on relationships, with traditional notions of love and friendship being central themes, though there are some progressive elements in the exploration of personal growth and self-discovery.
+
+### 3. Nationalism
+- **Presence**: Not Present
+  - There is no explicit mention or indication of nationalism in the plot description or subtitle transcript.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+  - There is no explicit mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film primarily focuses on gender relations, exploring themes of love, friendship, and personal growth within the context of traditional and modern relationship dynamics.
+================================================================================
+=== Satyameva Jayate (tt8202612) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - Analysis: There is no indication of Hindu-Muslim relations in the plot description or the subtitle transcript. The focus is on a police officer's mission and a romantic theme in the subtitles.
+
+2. **Gender Relations**
+   - Presence: Ambiguous
+   - Analysis: The subtitle transcript contains romantic language, which could imply traditional gender roles, but there is insufficient context to definitively assess gender relations. The romantic expressions do not provide enough information to evaluate the dynamics between genders in terms of exclusionary/inclusionary, negative/positive, or conservative/progressive axes.
+
+3. **Nationalism**
+   - Presence: Not Present
+   - Analysis: The plot description focuses on a police officer's mission to catch a criminal, which does not inherently suggest themes of nationalism. There is no mention of national identity, solidarity, or political ideology related to nationalism.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - Analysis: The romantic language in the subtitle transcript appears to be directed towards a heterosexual relationship, with no indication of LGBTQIA+ themes. There is no mention of non-heteronormative relationships or gender identities.
+
+In summary, the provided content does not explicitly present any of the four themes in a manner that allows for a detailed analysis on the specified axes. The focus is primarily on a law enforcement narrative and a romantic subplot, without clear cultural or political implications related to the themes in question.
+================================================================================
+=== Agent Vinod (tt1395025) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Ambiguous
+  - The transcript and plot do not explicitly mention Hindu-Muslim relations. There are references to Pakistan and potential terrorist activities, which could imply underlying tensions, but these are not explicitly framed in terms of Hindu-Muslim relations.
+
+### 2. Gender Relations
+- **Presence**: Not Present
+  - There is no significant mention or exploration of gender relations in the plot description or subtitle transcript.
+
+### 3. Nationalism
+- **Presence**: Present
+  - **Exclusionary–Inclusionary**: -0.5
+    - The narrative involves a conspiracy against India, with references to Pakistan and terrorist organizations, which can be seen as exclusionary by framing certain groups as threats.
+  - **Negative–Positive**: -0.3
+    - The portrayal of nationalism is somewhat negative, focusing on threats and conspiracies rather than positive national unity or pride.
+  - **Conservative–Progressive**: -0.4
+    - The theme leans towards a conservative portrayal, emphasizing traditional national security concerns and threats from external forces.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+  - There is no mention or exploration of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+In summary, the primary theme present in the movie is nationalism, which is portrayed in a somewhat exclusionary, negative, and conservative manner. The other themes are either not present or ambiguous based on the provided information.
+================================================================================
+=== Phillauri (tt5502766) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or implication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.2
+     - The film includes traditional gender roles, such as the expectation of marriage and the involvement of family in marital decisions. However, there is also a hint of agency and dialogue between genders, suggesting a slightly inclusionary approach.
+   - Negative–Positive: 0.1
+     - The narrative includes elements of superstition and societal pressure, which can be seen as negative. However, the presence of dialogue and negotiation between characters suggests a slightly positive portrayal of gender relations.
+   - Conservative–Progressive: -0.2
+     - The film's plot revolves around traditional beliefs and practices, such as marrying a tree to ward off ill-luck, which leans towards a conservative portrayal of gender relations.
+
+3. **Nationalism**
+   - Presence: Ambiguous
+   - There are references to historical events and cultural practices, but they are not explicitly tied to a nationalist theme. The mention of freedom fighters and cultural elements could imply a sense of national identity, but it is not overtly clear.
+   - Exclusionary–Inclusionary: N/A
+   - Negative–Positive: N/A
+   - Conservative–Progressive: N/A
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film primarily engages with themes of gender relations, with a focus on traditional practices and societal expectations. The presence of historical and cultural references could suggest a subtle engagement with nationalism, but it is not explicitly developed in the provided material.
+================================================================================
+=== Tumhari Sulu (tt6791730) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: +0.5
+     - The film portrays a woman, Sulu, taking on a non-traditional role as a night RJ, which is inclusionary as it challenges traditional gender roles and promotes women's participation in the workforce.
+   - Negative–Positive: +0.5
+     - The portrayal is generally positive, highlighting Sulu's determination and success in balancing her new job with her family responsibilities, despite facing some familial resistance.
+   - Conservative–Progressive: +0.7
+     - The film leans towards a progressive depiction by showcasing a woman stepping out of traditional domestic roles and pursuing a career, which is a modern and encouraging change in societal norms.
+
+3. **Nationalism**
+   - Presence: Not Present
+   - There is no explicit mention or indication of nationalism in the plot description or subtitle transcript.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no explicit mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film "Tumhari Sulu" primarily explores gender relations, focusing on a woman's journey to redefine her role within her family and society, with a positive and progressive tone.
+================================================================================
+=== Dhoom:3 (tt1833673) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.2
+     - The dialogue includes references to gender roles and relationships, such as "Do not try and woo any girl" and "lt's Iike gf and bf." These references are somewhat inclusionary as they acknowledge gender dynamics, but they do not strongly challenge traditional roles.
+   - Negative–Positive: 0.1
+     - The portrayal of gender relations is mostly neutral, with some positive elements like "The wonder girl" suggesting admiration. However, there is no strong positive or negative sentiment expressed.
+   - Conservative–Progressive: -0.1
+     - The references to traditional gender roles and relationships suggest a slightly conservative portrayal, as there is no significant challenge to traditional norms.
+
+3. **Nationalism**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.3
+     - The mention of "independence day" and "equal rights in our country" suggests a sense of national pride and inclusion. However, the context is not fully clear, so the score is moderate.
+   - Negative–Positive: 0.4
+     - The references to national pride and rights are generally positive, indicating a hopeful and confident view of the nation.
+   - Conservative–Progressive: 0.2
+     - The themes of national pride and rights suggest a slightly progressive stance, as they imply a desire for equality and improvement within the nation.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no explicit mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film seems to touch on themes of gender relations and nationalism, with a generally neutral to slightly positive and inclusionary portrayal. There is no significant presence of Hindu-Muslim relations or LGBTQIA+ themes.
+================================================================================
+=== M.S. Dhoni: The Untold Story (tt4169250) ===
+Based on the movie plot description and subtitle transcript provided, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - **Presence**: Not Present
+   - There is no indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - **Presence**: Present
+   - **Exclusionary–Inclusionary**: 0.5
+     - The film includes both male and female characters, and there are interactions between them. However, the focus is predominantly on male characters and their achievements, which is typical in sports biopics.
+   - **Negative–Positive**: 0.3
+     - The portrayal of gender relations is generally positive, with supportive interactions, but there is limited depth in exploring gender dynamics.
+   - **Conservative–Progressive**: 0.2
+     - The film does not challenge traditional gender roles significantly, focusing more on the male protagonist's journey.
+
+3. **Nationalism**
+   - **Presence**: Present
+   - **Exclusionary–Inclusionary**: 0.7
+     - The film portrays a sense of national pride and unity through the success of the Indian cricket team, which is an inclusionary aspect of nationalism.
+   - **Negative–Positive**: 0.8
+     - The depiction of nationalism is positive, celebrating India's achievements in cricket and fostering a sense of national pride.
+   - **Conservative–Progressive**: 0.5
+     - The film maintains a traditional view of nationalism, focusing on sports as a unifying factor, without delving into more progressive or critical perspectives.
+
+4. **LGBTQIA+ Themes**
+   - **Presence**: Not Present
+   - There is no indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film primarily focuses on the journey of Mahendra Singh Dhoni and his contributions to Indian cricket, with themes of nationalism and gender relations present to varying extents.
+================================================================================
+=== Sons of Ram (tt2317103) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Not Present
+- **Analysis**: The plot and subtitles do not mention or allude to Hindu-Muslim relations. The story is centered around characters from Hindu mythology, specifically from the Ramayana, and does not address inter-religious dynamics.
+
+### 2. Gender Relations
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: -0.5
+  - The narrative largely follows traditional gender roles, with Sita being exiled and her role as a mother emphasized. The story does not challenge these roles significantly, thus leaning towards exclusionary.
+- **Negative–Positive**: 0
+  - The portrayal of gender relations is neutral. While Sita's exile is a negative aspect, her role as a nurturing mother is portrayed positively.
+- **Conservative–Progressive**: -0.5
+  - The story adheres to traditional gender norms, with Sita's role being primarily defined by her relationship to Ram and her children, reflecting a conservative stance.
+
+### 3. Nationalism
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: 0
+  - The theme of nationalism is present in the form of loyalty to the kingdom of Ayodhya and the Ashwamedh Yagna, which are traditional and exclusionary in nature but not explicitly so.
+- **Negative–Positive**: 0.5
+  - The narrative portrays the kingdom and its rituals positively, emphasizing unity and loyalty, which are positive aspects of nationalism.
+- **Conservative–Progressive**: -0.5
+  - The focus on traditional rituals and the kingdom's honor reflects a conservative view of nationalism.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+- **Analysis**: There is no mention or implication of LGBTQIA+ themes in the plot or subtitles. The story is rooted in traditional narratives without exploring diverse sexual orientations or gender identities.
+
+In summary, the film primarily explores themes of gender relations and nationalism, with a conservative and traditional approach. The absence of Hindu-Muslim relations and LGBTQIA+ themes suggests a focus on traditional narratives without engaging with contemporary social issues.
+================================================================================
+=== Halkaa (tt8136908) ===
+**Hindu-Muslim Relations**
+- Presence: Not Present
+- Since there is no indication of Hindu-Muslim relations in the plot description or subtitle transcript, this theme is not present.
+
+**Gender Relations**
+- Presence: Ambiguous
+- The film primarily focuses on the young boy's struggle for sanitation, with limited exploration of gender dynamics. There are some interactions with female characters, but they do not provide enough context to clearly assess gender relations.
+- Exclusionary–Inclusionary: 0 (Neutral, as there is insufficient information to determine the portrayal of gender relations)
+- Negative–Positive: 0 (Neutral, as there is insufficient information to determine the portrayal of gender relations)
+- Conservative–Progressive: 0 (Neutral, as there is insufficient information to determine the portrayal of gender relations)
+
+**Nationalism**
+- Presence: Not Present
+- The film does not explicitly address themes of nationalism or national identity. The focus is on local issues of sanitation and personal struggle rather than broader nationalistic themes.
+
+**LGBTQIA+ Themes**
+- Presence: Not Present
+- There is no indication of LGBTQIA+ themes in the plot description or subtitle transcript. The narrative centers around the boy's quest for a toilet, without exploring issues related to sexual orientation or gender identity.
+================================================================================
+=== Jagga Jasoos (tt4129428) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Ambiguous
+   - The plot description mentions a "ladylove assistant," which could imply some aspect of gender relations, but the transcript does not provide enough context to analyze this theme further. Therefore, it remains ambiguous.
+
+3. **Nationalism**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.5
+     - The narrative involves themes of national security, internal security, and references to historical figures like Netaji Subhash Chandra Bose, suggesting a sense of national pride and solidarity, which leans towards inclusionary.
+   - Negative–Positive: 0.3
+     - The portrayal of national security issues and the protagonist's quest to uncover conspiracies can be seen as positive in terms of promoting awareness and action, though it also highlights negative aspects like corruption and illegal arms trade.
+   - Conservative–Progressive: 0.2
+     - The focus on national security and historical references suggests a somewhat conservative approach, but the exposure of conspiracies and illegal activities indicates a progressive stance towards transparency and justice.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+In summary, the primary theme present in the movie is Nationalism, with a focus on national security and historical references, portrayed in a somewhat inclusionary, positive, and slightly progressive manner. The other themes are either not present or ambiguous due to lack of context.
+================================================================================
+=== Good Newwz (tt8504014) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.2
+     - The film portrays traditional gender roles, with women primarily concerned with pregnancy and family, but it also shows women as professionals (e.g., Richa as a top lawyer), suggesting some level of inclusion.
+   - Negative–Positive: 0.1
+     - The portrayal of gender relations is somewhat neutral, with both positive aspects (supportive relationships) and negative aspects (stress and pressure related to pregnancy).
+   - Conservative–Progressive: -0.2
+     - The film leans slightly conservative, focusing on traditional family structures and roles, though it does touch on modern issues like IVF.
+
+3. **Nationalism**
+   - Presence: Not Present
+   - There is no explicit mention or indication of nationalism in the plot description or subtitle transcript.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film primarily explores themes related to gender relations, particularly in the context of family and reproductive issues, with a slight conservative leaning.
+================================================================================
+=== Ghayal Once Again (tt4683366) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Not Present
+- There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+### 2. Gender Relations
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: 0.5
+  - The film includes themes of women's security and respect, as well as the bravery of young girls, suggesting an inclusionary approach.
+- **Negative–Positive**: 0.3
+  - While there are positive elements, such as the focus on women's security, there are also negative aspects, such as the mention of rape and the challenges faced by women.
+- **Conservative–Progressive**: 0.4
+  - The film appears to advocate for change and improvement in gender relations, indicating a somewhat progressive stance.
+
+### 3. Nationalism
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: 0.2
+  - The film portrays a sense of national pride and justice, but it also involves conflict with authorities, which may not be entirely inclusionary.
+- **Negative–Positive**: 0.1
+  - The narrative includes both positive elements of fighting for justice and negative elements of corruption and violence.
+- **Conservative–Progressive**: 0.3
+  - The film seems to challenge the status quo and advocate for justice, suggesting a slightly progressive stance.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+- There is no explicit mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film appears to focus on themes of justice, gender relations, and nationalism, with a somewhat inclusionary and progressive approach, though it also highlights significant societal challenges.
+================================================================================
+=== Mummy Punjabi: Superman Ki Bhi Maa!! (tt2066925) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or implication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.2
+     - The film portrays a mix of traditional and modern gender roles, with some characters adhering to traditional expectations while others challenge them. The presence of a strong female character balancing tradition and modernity suggests a slightly inclusionary portrayal.
+   - Negative–Positive: 0.1
+     - The portrayal of gender relations includes both positive aspects, such as the empowerment of women, and negative aspects, such as traditional gender expectations and stereotypes. Overall, it leans slightly towards a positive portrayal.
+   - Conservative–Progressive: 0.3
+     - The film seems to present a progressive view of gender relations, with characters challenging traditional roles and expectations, though it still retains some conservative elements.
+
+3. **Nationalism**
+   - Presence: Not Present
+   - There is no explicit mention or implication of nationalism in the plot description or subtitle transcript.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no explicit mention or implication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film "Mummy Punjabi" primarily explores gender relations, with a focus on the balance between tradition and modernity in a Punjabi family setting. The other themes are not present in the provided material.
+================================================================================
+=== Chakravyuh (tt2292625) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Not Present
+  - There is no explicit mention or implication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+### 2. Gender Relations
+- **Presence**: Present
+  - There are references to gender dynamics, such as the mention of women comrades and the people's court's rules regarding women.
+- **Exclusionary–Inclusionary**: 0.2
+  - The narrative includes women in the Naxal movement, suggesting some level of inclusion. However, the context of violence and conflict may limit the portrayal of true inclusion.
+- **Negative–Positive**: -0.2
+  - The portrayal of gender relations is somewhat negative due to the context of conflict and the potential for violence against women.
+- **Conservative–Progressive**: 0.1
+  - The inclusion of women in the movement suggests a slight progressive angle, but the overall context does not strongly advocate for gender equality or progressive gender roles.
+
+### 3. Nationalism
+- **Presence**: Present
+  - The film deals with themes of national security, internal conflict, and the role of the state, which are tied to nationalism.
+- **Exclusionary–Inclusionary**: -0.3
+  - The narrative seems to focus on a specific group (Naxals) as antagonists, which can be seen as exclusionary.
+- **Negative–Positive**: -0.4
+  - The portrayal of nationalism is negative, as it is associated with conflict, violence, and state oppression.
+- **Conservative–Progressive**: -0.2
+  - The film appears to lean towards a conservative view of nationalism, emphasizing law and order and the status quo over progressive change.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+  - There is no mention or implication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+In summary, the film primarily explores themes of gender relations and nationalism, with a focus on conflict and internal security issues. The portrayal of these themes tends to be more negative and conservative, with limited inclusionary elements.
+================================================================================
+=== Mirzya (tt4940456) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Not Present
+  - There is no explicit or implicit reference to Hindu-Muslim relations in the plot description or subtitle transcript.
+
+### 2. Gender Relations
+- **Presence**: Ambiguous
+  - The plot description and subtitles do not provide enough context to clearly identify themes related to gender relations. There are mentions of characters like "the Princess" and "Sahiba," but without further context, it is difficult to assess the portrayal of gender relations.
+
+### 3. Nationalism
+- **Presence**: Not Present
+  - There is no explicit mention or implication of nationalism or related sentiments in the plot description or subtitle transcript.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+  - There is no indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Given the lack of explicit references or context for these themes, it is challenging to assign scores on the axes for any of the themes. The content provided does not offer sufficient information to evaluate the presence or portrayal of these cultural and political themes.
+================================================================================
+=== Dabangg 2 (tt2112131) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Ambiguous
+  - The transcript includes a mention of "Allah" and "Prajapati Pandey," which could suggest a Hindu-Muslim context, but there is insufficient context to determine if Hindu-Muslim relations are a central theme.
+  
+### 2. Gender Relations
+- **Presence**: Present
+  - **Exclusionary–Inclusionary**: -0.5
+    - The dialogue includes references to women in a somewhat objectifying manner, such as "between two legs better" and "like this with a girl," suggesting a more exclusionary portrayal of gender relations.
+  - **Negative–Positive**: -0.5
+    - The portrayal of women seems to be negative, with references to "lowly and cheap actions" and objectification.
+  - **Conservative–Progressive**: -0.5
+    - The portrayal leans towards conservative, with traditional gender roles and objectification of women.
+
+### 3. Nationalism
+- **Presence**: Present
+  - **Exclusionary–Inclusionary**: 0.0
+    - The theme of nationalism is present in the form of police and political figures, but it does not explicitly exclude or include any particular group.
+  - **Negative–Positive**: 0.0
+    - The portrayal of nationalism is neutral, focusing on law enforcement and political activities without a clear positive or negative slant.
+  - **Conservative–Progressive**: -0.5
+    - The portrayal leans towards conservative, with a focus on law and order and traditional authority figures.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+  - There is no indication of LGBTQIA+ themes in the provided description or transcript.
+
+In summary, the film appears to focus on traditional gender roles and law enforcement, with a conservative portrayal of nationalism and gender relations. The presence of Hindu-Muslim relations is ambiguous, and LGBTQIA+ themes are not present.
+================================================================================
+=== The Accidental Prime Minister (tt6986710) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Not Present
+- **Analysis**: The movie description and subtitles do not explicitly address Hindu-Muslim relations. The focus is primarily on political dynamics within the Indian government and the role of Manmohan Singh as Prime Minister.
+
+### 2. Gender Relations
+- **Presence**: Ambiguous
+- **Analysis**: There are mentions of Sonia Gandhi and her influence, but the context does not provide enough information to assess gender relations comprehensively. The focus is more on political power dynamics rather than gender-specific issues.
+
+### 3. Nationalism
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: 0.5
+  - The film discusses national interest and India's position on the global stage, particularly in relation to nuclear policy and economic reforms. The portrayal seems to be inclusionary in terms of national identity and pride.
+- **Negative–Positive**: 0.3
+  - The narrative includes both positive aspects, such as economic reforms and national pride, and negative aspects, such as political strife and challenges. Overall, it leans slightly positive due to the emphasis on progress and development.
+- **Conservative–Progressive**: 0.2
+  - The film appears to balance traditional political structures with progressive economic reforms. The portrayal of Manmohan Singh's tenure suggests a mix of maintaining established political norms while pushing for economic progress.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+- **Analysis**: There is no mention or implication of LGBTQIA+ themes in the movie description or subtitle transcript. The focus remains on political and national issues.
+
+In summary, the primary theme present in the film is nationalism, with a focus on political dynamics and economic reforms during Manmohan Singh's tenure as Prime Minister. The portrayal is slightly inclusionary and positive, with a moderate balance between conservative and progressive elements.
+================================================================================
+=== Bombairiya (tt4971258) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or implication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.2
+     - The narrative includes various interactions between male and female characters, with some traditional gender roles implied (e.g., concerns about a woman's job, pregnancy, and familial roles). However, there is also a sense of agency and independence in Meghna's character, suggesting a slightly inclusionary portrayal.
+   - Negative–Positive: 0.1
+     - The interactions reflect both supportive and confrontational dynamics, with some negative connotations (e.g., "you ditched her!") but also moments of care and concern (e.g., "I'm going to look after you.").
+   - Conservative–Progressive: 0.1
+     - The portrayal of gender relations leans slightly towards traditional roles, but there are hints of progressive elements, such as the independence of female characters and the questioning of societal norms.
+
+3. **Nationalism**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.3
+     - The mention of "Victory to India!" and references to national institutions (e.g., Rashtrapati Bhavan) suggest a sense of national pride and unity, which is somewhat inclusionary.
+   - Negative–Positive: 0.4
+     - The theme of nationalism is portrayed positively, with a focus on justice and systemic change, as well as pride in national identity.
+   - Conservative–Progressive: 0.2
+     - While there is a traditional sense of national pride, the narrative also includes elements of systemic change and reform, indicating a slightly progressive stance.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no explicit mention or implication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film seems to touch on themes of gender relations and nationalism, with a slight inclination towards inclusionary and positive portrayals, while maintaining a balance between conservative and progressive elements.
+================================================================================
+=== Manjhi: The Mountain Man (tt3449292) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Not Present
+- There is no explicit mention or implication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+### 2. Gender Relations
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: -0.5
+  - The film depicts traditional gender roles and issues such as child marriage and the commodification of women, which are exclusionary. However, there are moments of resistance and agency, such as the protagonist's determination to honor his wife, suggesting some inclusionary elements.
+- **Negative–Positive**: -0.3
+  - The portrayal of gender relations is largely negative, highlighting issues like child marriage and the subjugation of women. However, the protagonist's dedication to his wife adds a slightly positive dimension.
+- **Conservative–Progressive**: -0.5
+  - The film reflects conservative gender norms, such as child marriage and patriarchal structures. There is little indication of progressive change in gender relations.
+
+### 3. Nationalism
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: 0.2
+  - The film references the broader context of independent India and the struggle for development, which can be seen as inclusionary. However, the focus is primarily on local issues rather than a broader national identity.
+- **Negative–Positive**: 0.3
+  - The narrative includes positive elements of nationalism, such as the protagonist's determination to improve his community, but also highlights the failures of the state to provide for its citizens.
+- **Conservative–Progressive**: 0.1
+  - The film presents a mix of conservative and progressive elements, with traditional values coexisting alongside a desire for social change and development.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+- There is no mention or implication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film primarily addresses themes of gender relations and nationalism, with a focus on traditional societal structures and the protagonist's struggle against them.
+================================================================================
+=== Sanam Re (tt4262516) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: 0.2
+     - The dialogue includes some traditional gender roles and expectations, but there are also moments of mutual respect and partnership, suggesting a slightly inclusionary portrayal.
+   - Negative–Positive: 0.1
+     - The portrayal of gender relations is mostly neutral, with some positive elements of love and partnership, but also some traditional expectations.
+   - Conservative–Progressive: -0.1
+     - The narrative includes some conservative elements, such as traditional roles and expectations, but there are hints of progressive ideas in terms of partnership and mutual respect.
+
+3. **Nationalism**
+   - Presence: Not Present
+   - There is no explicit mention or indication of nationalism in the plot description or subtitle transcript.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no explicit mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the movie seems to focus more on personal relationships and individual journeys rather than broader cultural or political themes.
+================================================================================
+=== Maatr (tt5543746) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - **Presence**: Ambiguous
+   - **Analysis**: The transcript mentions names like "Kamran Qureshi" and "Poojary," which could imply characters from different religious backgrounds. However, there is no explicit discussion or focus on Hindu-Muslim relations, making it ambiguous.
+
+2. **Gender Relations**
+   - **Presence**: Present
+   - **Exclusionary–Inclusionary**: -0.5 (Exclusionary)
+     - The narrative centers around a mother's quest for justice after her daughter's murder, highlighting systemic failures and societal exclusion of women's voices.
+   - **Negative–Positive**: -0.7 (Negative)
+     - The theme is portrayed negatively, focusing on violence against women and the challenges they face in seeking justice.
+   - **Conservative–Progressive**: 0.3 (Slightly Progressive)
+     - The mother's active role in seeking justice suggests a break from traditional passive roles, indicating a slightly progressive portrayal.
+
+3. **Nationalism**
+   - **Presence**: Present
+   - **Exclusionary–Inclusionary**: 0.0 (Neutral)
+     - The references to "Chief Minister" and "Jai Hind" suggest a political backdrop, but there is no clear exclusionary or inclusionary stance.
+   - **Negative–Positive**: -0.3 (Slightly Negative)
+     - The political system is depicted as corrupt and ineffective, which casts a negative light on national governance.
+   - **Conservative–Progressive**: -0.2 (Slightly Conservative)
+     - The portrayal of political figures and the system suggests a resistance to change, leaning slightly conservative.
+
+4. **LGBTQIA+ Themes**
+   - **Presence**: Not Present
+   - **Analysis**: There is no mention or implication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film seems to focus on gender relations and the challenges within the political system, with a narrative that leans towards highlighting societal issues and the struggle for justice.
+================================================================================
+=== Hum chaar (tt9319812) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - **Presence**: Ambiguous
+   - **Analysis**: The transcript mentions a character named Abeer Khan, which could suggest a Muslim identity, but there is no explicit mention of Hindu-Muslim relations or interactions that highlight this theme. The context does not provide enough information to determine if Hindu-Muslim relations are a significant theme in the film.
+
+2. **Gender Relations**
+   - **Presence**: Present
+   - **Exclusionary–Inclusionary**: 0.2
+     - The interactions between male and female characters seem to be somewhat inclusive, with women participating in various social settings. However, there are instances of traditional gender roles and expectations, such as the mention of marriage and domestic responsibilities.
+   - **Negative–Positive**: 0.1
+     - The portrayal of gender relations is mostly neutral, with some positive interactions but also instances of conflict and traditional expectations.
+   - **Conservative–Progressive**: -0.1
+     - The film appears to lean slightly towards conservative portrayals, with traditional gender roles and expectations being evident, though there are moments of progressive interactions.
+
+3. **Nationalism**
+   - **Presence**: Not Present
+   - **Analysis**: There is no explicit mention or indication of nationalism or related themes in the plot description or subtitle transcript.
+
+4. **LGBTQIA+ Themes**
+   - **Presence**: Not Present
+   - **Analysis**: There is no mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film primarily explores themes of friendship and personal relationships, with some attention to gender relations. The other themes, such as Hindu-Muslim relations, nationalism, and LGBTQIA+ themes, are either ambiguous or not present based on the provided information.
+================================================================================
+=== Padmaavat (tt5935704) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: -0.8
+  - The portrayal of Alauddin Khilji, a Muslim ruler, as a tyrannical usurper obsessed with a Hindu queen, can be seen as exclusionary, emphasizing conflict and negative stereotypes.
+- **Negative–Positive**: -0.7
+  - The narrative focuses on conflict, obsession, and aggression, presenting a negative portrayal of Hindu-Muslim relations.
+- **Conservative–Progressive**: -0.6
+  - The depiction leans towards a conservative portrayal, reinforcing historical animosities and traditional narratives of conflict between Hindu and Muslim communities.
+
+### 2. Gender Relations
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: -0.5
+  - The focus on Queen Padmavati's beauty and the concept of Jauhar (mass self-immolation) reflects exclusionary gender norms, limiting women's roles to beauty and sacrifice.
+- **Negative–Positive**: -0.6
+  - The narrative emphasizes women's suffering and sacrifice, presenting a negative view of gender relations.
+- **Conservative–Progressive**: -0.8
+  - The portrayal is conservative, highlighting traditional gender roles and the expectation of female sacrifice for honor.
+
+### 3. Nationalism
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: -0.4
+  - The emphasis on Rajput pride and valor can be exclusionary, focusing on a specific regional identity and historical narrative.
+- **Negative–Positive**: 0.2
+  - While the narrative is centered on conflict, it also celebrates Rajput bravery and sacrifice, which can be seen as a positive portrayal of nationalism.
+- **Conservative–Progressive**: -0.5
+  - The focus on historical valor and traditional narratives of honor and sacrifice reflects a conservative approach to nationalism.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+- There is no indication of LGBTQIA+ themes in the provided plot description and subtitle transcript.
+
+Overall, the film "Padmavat" (as inferred from the description and transcript) presents themes of Hindu-Muslim relations, gender relations, and nationalism with a predominantly conservative and negative lens, focusing on historical conflicts and traditional roles.
+================================================================================
+=== Badlapur (tt3678782) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no explicit mention or indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: -0.5
+     - The portrayal of gender relations seems to be somewhat exclusionary, as there are instances of women being objectified or treated as secondary to the male characters' narratives (e.g., "make you the local Draupadi?", "sleep with me... to save him").
+   - Negative–Positive: -0.5
+     - The depiction of gender relations leans towards the negative, with themes of violence against women and the use of women as bargaining tools or victims.
+   - Conservative–Progressive: -0.5
+     - The portrayal is more conservative, as it reinforces traditional gender roles and does not challenge or subvert them in a progressive manner.
+
+3. **Nationalism**
+   - Presence: Not Present
+   - There is no explicit mention or indication of nationalism in the plot description or subtitle transcript.
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no explicit mention or indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film seems to focus on themes of personal revenge and crime, with a notable presence of gender relations that are portrayed in a somewhat exclusionary, negative, and conservative manner.
+================================================================================
+=== Baby (tt3848892) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+### 1. Hindu-Muslim Relations
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: -0.5
+  - The film portrays a narrative involving terrorism with references to Islamic groups and individuals, which can be seen as exclusionary towards Muslims by associating them with negative stereotypes.
+- **Negative–Positive**: -0.5
+  - The portrayal of Muslim characters and groups as terrorists contributes to a negative depiction of Hindu-Muslim relations.
+- **Conservative–Progressive**: -0.5
+  - The narrative reinforces traditional stereotypes and does not challenge or offer a progressive view on Hindu-Muslim relations.
+
+### 2. Gender Relations
+- **Presence**: Ambiguous
+  - There is no clear focus on gender relations in the plot description or subtitle transcript. The presence of female characters or specific gender dynamics is not evident.
+  
+### 3. Nationalism
+- **Presence**: Present
+- **Exclusionary–Inclusionary**: -0.3
+  - The film emphasizes national security and patriotism, which can be exclusionary by focusing on a singular national identity and portraying external threats.
+- **Negative–Positive**: 0.2
+  - While the film promotes national pride and the protection of the country, it does so through a lens of conflict and threat, which can have both positive and negative connotations.
+- **Conservative–Progressive**: -0.2
+  - The film's approach to nationalism is more conservative, focusing on traditional notions of national security and defense rather than exploring new or progressive ideas about national identity.
+
+### 4. LGBTQIA+ Themes
+- **Presence**: Not Present
+  - There is no indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the film primarily focuses on themes of nationalism and Hindu-Muslim relations, with a narrative centered around terrorism and national security. The portrayal tends to be more exclusionary and conservative, particularly in its depiction of Muslim characters and its approach to nationalism.
+================================================================================
+=== The Silent Heroes (tt4309284) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Not Present
+   - There is no indication of Hindu-Muslim relations in the plot description or subtitle transcript.
+
+2. **Gender Relations**
+   - Presence: Ambiguous
+   - The transcript mentions a female team leader, Hima, and her management of the team, which could imply some exploration of gender roles, especially in a challenging environment like mountaineering. However, there is not enough context to fully assess this theme.
+   - Exclusionary–Inclusionary: 0 (Neutral, as there is no clear indication of exclusion or inclusion based on gender)
+   - Negative–Positive: 0 (Neutral, as there is no clear indication of negative or positive portrayal of gender relations)
+   - Conservative–Progressive: 0 (Neutral, as there is no clear indication of conservative or progressive portrayal of gender relations)
+
+3. **Nationalism**
+   - Presence: Ambiguous
+   - The mention of hoisting flags on high Himalayan passes and the recommendation for a President's Award could suggest elements of national pride or recognition, but the context is not explicitly nationalistic.
+   - Exclusionary–Inclusionary: 0 (Neutral, as there is no clear indication of exclusion or inclusion based on nationalism)
+   - Negative–Positive: 0 (Neutral, as there is no clear indication of negative or positive portrayal of nationalism)
+   - Conservative–Progressive: 0 (Neutral, as there is no clear indication of conservative or progressive portrayal of nationalism)
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - There is no indication of LGBTQIA+ themes in the plot description or subtitle transcript.
+
+Overall, the movie seems to focus on the empowerment and achievements of deaf children through a mountaineering course, with potential but unclear exploration of gender roles and national pride.
+================================================================================
+=== Coffee with D (tt6334874) ===
+Based on the provided movie plot description and subtitle transcript, here is the analysis of the cultural and political themes:
+
+1. **Hindu-Muslim Relations**
+   - Presence: Ambiguous
+   - Analysis: The transcript does not provide clear evidence of Hindu-Muslim relations. There are mentions of locations and names that could imply religious identities, but without explicit context or interaction, it remains ambiguous.
+
+2. **Gender Relations**
+   - Presence: Present
+   - Exclusionary–Inclusionary: -0.5 (The dialogue includes some exclusionary and objectifying language towards women, such as the suggestion of compromising with a woman for professional gain.)
+   - Negative–Positive: -0.5 (The portrayal of gender relations is negative, with references to objectification and lack of respect towards women.)
+   - Conservative–Progressive: -0.5 (The depiction leans towards conservative, with traditional and patriarchal views on gender roles and interactions.)
+
+3. **Nationalism**
+   - Presence: Present
+   - Exclusionary–Inclusionary: -0.3 (The dialogue includes nationalistic sentiments, but they are often tied to exclusionary and aggressive rhetoric.)
+   - Negative–Positive: -0.2 (The portrayal of nationalism is somewhat negative, focusing on conflict and aggression rather than unity or pride.)
+   - Conservative–Progressive: -0.4 (The nationalism depicted is conservative, emphasizing traditional power structures and resistance to change.)
+
+4. **LGBTQIA+ Themes**
+   - Presence: Not Present
+   - Analysis: There is no explicit mention or implication of LGBTQIA+ themes in the transcript.
+
+Overall, the film seems to focus on themes of media sensationalism, power dynamics, and societal issues, with a critical lens on how these are portrayed in the context of journalism and crime.
+================================================================================
